@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cuesmastershop.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cuesmastershop.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cuesmastershop.com/collections/resin-art-collection.atom"/>
+  <title>Cues Master Shop</title>
+  <updated>2026-08-14T09:39:40+08:00</updated>
+  <author>
+    <name>Cues Master Shop</name>
+  </author>
+  <entry>
+    <id>https://cuesmastershop.com/products/8040995815472</id>
+    <published>2026-08-14T09:39:40+08:00</published>
+    <updated>2026-08-14T09:39:40+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/untitled-aug6_03-12-08"/>
+    <title>Northern Ember – Handcrafted Custom Pool Cue | Cues Master</title>
+    <s:type></s:type>
+    <s:vendor>Cues Master Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/123.png?v=1786593600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="isSelectedEnd"><span>Striking, refined, and deeply rooted in natural beauty, the </span><strong><span>Northern Ember</span></strong><span> is a handcrafted custom pool cue that brings together elegant Canadian maple, dramatic organic wood grain, and contemporary resin artistry. The </span><strong><span>premium Canadian maple forearm</span></strong><span> provides a clean, warm foundation, enhanced by meticulously handcrafted </span><strong><span>resin inlays</span></strong><span> that introduce depth, color, and character to the design.</span></p>
+<p class="isSelectedEnd"><span>The cue transitions into a distinctive </span><strong><span>spalted wood butt sleeve</span></strong><span>, showcasing naturally occurring grain patterns that make every piece truly one of a kind. Rich </span><strong><span>resin accents</span></strong><span> flow throughout the design, creating a seamless connection between the natural wood elements, while the </span><strong><span>resin grip</span></strong><span> adds a modern aesthetic with a smooth and comfortable feel in the hand.</span></p>
+<p class="isSelectedEnd"><span>Completing the design are </span><strong><span>resin rings</span></strong><span>, adding clean lines and visual balance throughout the cue. The combination of Canadian maple, dramatic spalted wood, handcrafted inlays, and vibrant resin creates a contemporary masterpiece where </span><strong><span>traditional artisan craftsmanship meets modern cue design</span></strong><span>.</span></p>
+<p class="isSelectedEnd"><span>Built for players who appreciate individuality and exceptional craftsmanship, the Northern Ember is more than a playing cue—it is a statement piece. Every grain, inlay, resin detail, and handcrafted element contributes to a cue that is unmistakably unique.</span></p>
+<h3><span>Specifications</span></h3>
+<ul>
+<li>
+<strong><span>Forearm:</span></strong><span> Premium Canadian Maple with Handcrafted Resin Inlays</span>
+</li>
+<li>
+<strong><span>Handle / Grip:</span></strong><span> Custom Resin Grip</span>
+</li>
+<li>
+<strong><span>Butt Sleeve:</span></strong><span> Premium Spalted Wood with Resin Accents</span>
+</li>
+<li>
+<strong><span>Rings:</span></strong><span> Resin Rings</span>
+</li>
+<li>
+<strong><span>Pin:</span></strong><span> Radial</span>
+</li>
+<li>
+<strong><span>Construction:</span></strong><span> Handcrafted Custom Cue</span>
+</li>
+<li>
+<strong><span>Brand:</span></strong><span> Cues Master</span>
+</li>
+</ul>
+<p><strong><span>Natural beauty. Bold character. Modern craftsmanship. A one-of-a-kind cue built to be played, admired, and remembered.</span></strong><span> 🎱</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8040995815472</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">20000.00</s:price>
+      <s:sku/>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cuesmastershop.com/products/8048315269168</id>
+    <published>2026-08-14T09:39:06+08:00</published>
+    <updated>2026-08-14T09:39:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/arctic-abyss-handcrafted-custom-pool-cue-cues-master"/>
+    <title>Arctic Abyss – Handcrafted Custom Pool Cue | Cues Master</title>
+    <s:type></s:type>
+    <s:vendor>Cues Master Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/456.png?v=1786593942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="isSelectedEnd"><span>Bold, elegant, and inspired by the mysterious depths of northern waters, the </span><strong><span>Arctic Abyss</span></strong><span> is a handcrafted custom pool cue that brings together the natural beauty of premium Canadian maple with the captivating movement of colored resin. Its design captures the contrast between organic wood grain and flowing resin artistry, creating a cue that feels both refined and distinctly modern.</span></p>
+<p class="isSelectedEnd"><span>The </span><strong><span>premium Canadian maple forearm</span></strong><span> provides a clean, sophisticated foundation, enhanced by meticulously handcrafted </span><strong><span>resin inlays</span></strong><span> flowing through rich shades of blue and violet. Each resin element is carefully shaped and integrated into the maple, creating a dynamic pattern with remarkable depth, movement, and individuality.</span></p>
+<p class="isSelectedEnd"><span>The design continues through the </span><strong><span>custom resin grip</span></strong><span>, carrying the same artistic character into the handle for a seamless contemporary aesthetic. Decorative </span><strong><span>custom ringwork</span></strong><span> provides clean transitions and visual balance throughout the cue, while the precision </span><strong><span>Radial pin</span></strong><span> ensures a secure and accurate connection between the butt and shaft.</span></p>
+<p class="isSelectedEnd"><span>Created for discerning players and collectors, the Arctic Abyss reflects the craftsmanship, precision, and creativity behind every Cues Master creation. It is a distinctive expression of modern cue artistry—where natural materials and handcrafted resin come together to create something truly one of a kind.</span></p>
+<h3><span>Specifications</span></h3>
+<ul>
+<li>
+<strong><span>Forearm:</span></strong><span> Premium Canadian Maple with Handcrafted Resin Inlays</span>
+</li>
+<li>
+<strong><span>Handle / Grip:</span></strong><span> Custom Resin Grip</span>
+</li>
+<li>
+<strong><span>Inlays:</span></strong><span> Handcrafted Resin Inlays</span>
+</li>
+<li>
+<strong><span>Ringwork:</span></strong><span> Custom Decorative Rings</span>
+</li>
+<li>
+<strong><span>Pin:</span></strong><span> Radial</span>
+</li>
+<li>
+<strong><span>Construction:</span></strong><span> Handcrafted Custom Cue</span>
+</li>
+<li>
+<strong><span>Brand:</span></strong><span> Cues Master</span>
+</li>
+</ul>
+<p><strong><span>Natural maple. Flowing resin. Modern artistry. The Arctic Abyss is handcrafted for those who appreciate a cue unlike any other.</span></strong><span> 🎱</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8048315269168</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">18000.00</s:price>
+      <s:sku/>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cuesmastershop.com/products/8048331587632</id>
+    <published>2026-08-14T09:38:03+08:00</published>
+    <updated>2026-08-14T09:38:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/emerald-frost-handcrafted-custom-pool-cue-cues-master"/>
+    <title>Emerald Frost – Handcrafted Custom Pool Cue | Cues Master</title>
+    <s:type></s:type>
+    <s:vendor>Cues Master Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/121314.png?v=1786599559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="isSelectedEnd"><span>Elegant, distinctive, and meticulously handcrafted, the </span><strong><span>Emerald Frost</span></strong><span> brings together the natural warmth of premium Canadian maple, the bold character of emerald resin, and the iridescent beauty of abalone. Designed with a striking balance of color, texture, and precision, this custom pool cue is a modern expression of refined cue-making artistry.</span></p>
+<p class="isSelectedEnd"><span>The </span><strong><span>premium Canadian maple forearm</span></strong><span> serves as a clean natural canvas for carefully handcrafted </span><strong><span>resin and abalone inlays</span></strong><span>. Long, tapered inlays flow gracefully along the forearm, creating a sharp and symmetrical pattern that contrasts beautifully against the maple grain. Subtle abalone details introduce flashes of natural iridescence, adding depth and sophistication to the design.</span></p>
+<p class="isSelectedEnd"><span>The cue transitions into a distinctive </span><strong><span>white resin grip</span></strong><span>, featuring a flowing pattern that complements the deep green resin while creating a crisp, contemporary contrast. Matching green resin details continue through the </span><strong><span>butt sleeve</span></strong><span>, bringing visual harmony to the entire cue. Completing the design are meticulously handcrafted </span><strong><span>abalone rings</span></strong><span>, adding refined flashes of color throughout the ringwork.</span></p>
+<p class="isSelectedEnd"><span>Built for players who demand both artistry and performance, the Emerald Frost is equipped with a </span><strong><span>premium Kielwood shaft</span></strong><span>, </span><strong><span>Black Diamond tip</span></strong><span>, and </span><strong><span>US phenolic ferrule</span></strong><span> for a solid, responsive, and consistent hit. A precision </span><strong><span>Radial pin</span></strong><span> completes the connection between butt and shaft.</span></p>
+<h3><span>Specifications</span></h3>
+<ul>
+<li>
+<strong><span>Forearm:</span></strong><span> Premium Canadian Maple with Handcrafted Resin &amp; Abalone Inlays</span>
+</li>
+<li>
+<strong><span>Grip:</span></strong><span> Custom White Resin Grip</span>
+</li>
+<li>
+<strong><span>Butt Sleeve:</span></strong><span> Canadian Maple &amp; Green Resin with Abalone Details</span>
+</li>
+<li>
+<strong><span>Inlays:</span></strong><span> Resin &amp; Abalone Inlays</span>
+</li>
+<li>
+<strong><span>Rings:</span></strong><span> Handcrafted Abalone Rings</span>
+</li>
+<li>
+<strong><span>Shaft:</span></strong><span> Premium Kielwood Shaft</span>
+</li>
+<li>
+<strong><span>Tip:</span></strong><span> Black Diamond Tip</span>
+</li>
+<li>
+<strong><span>Ferrule:</span></strong><span> US Phenolic Ferrule</span>
+</li>
+<li>
+<strong><span>Pin:</span></strong><span> Radial</span>
+</li>
+<li>
+<strong><span>Construction:</span></strong><span> Handcrafted Custom Cue</span>
+</li>
+<li>
+<strong><span>Brand:</span></strong><span> Cues Master</span>
+</li>
+</ul>
+<p><strong><span>Natural maple. Emerald resin. Iridescent abalone. Precision craftsmanship. Emerald Frost is where bold modern design meets the timeless art of handcrafted cue making.</span></strong><span> 🎱</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8048331587632</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">28000.00</s:price>
+      <s:sku/>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cuesmastershop.com/products/8048335650864</id>
+    <published>2026-08-14T09:37:32+08:00</published>
+    <updated>2026-08-14T09:37:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/emerald-sovereign-handcrafted-custom-pool-cue-cues-master"/>
+    <title>Emerald Sovereign – Handcrafted Custom Pool Cue | Cues Master</title>
+    <s:type></s:type>
+    <s:vendor>Cues Master Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/141516_68f88d20-5050-4f7f-b392-f3671e97be93.png?v=1786599818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="isSelectedEnd"><span>Refined, commanding, and crafted with an unmistakable sense of luxury, the </span><strong><span>Emerald Sovereign</span></strong><span> is a handcrafted custom pool cue that celebrates the natural character of premium ashwood and the timeless beauty of abalone. Its design brings together organic wood grain, rich resin accents, and intricate handcrafted details to create a cue with a distinctly regal presence.</span></p>
+<p class="isSelectedEnd"><span>The </span><strong><span>premium ashwood</span></strong><span> provides a light, elegant foundation for meticulously handcrafted </span><strong><span>resin and abalone inlays</span></strong><span>. Sophisticated geometric patterns flow through the forearm and butt sleeve, combining rich resin accents with the natural iridescence of abalone to create a design that is intricate yet perfectly balanced.</span></p>
+<p class="isSelectedEnd"><span>A premium </span><strong><span>Luxe wrap</span></strong><span> adds a rich, refined texture to the handle while creating a striking contrast against the lighter ashwood. Carefully crafted </span><strong><span>abalone rings</span></strong><span> introduce subtle flashes of color throughout the cue, tying the inlay work together and adding another layer of sophistication.</span></p>
+<p class="isSelectedEnd"><span>Every element of the Emerald Sovereign is thoughtfully crafted to achieve a harmonious balance between natural wood, deep resin tones, and iridescent abalone artistry. Designed for discerning players and collectors alike, it is a cue that commands attention in the hands and stands proudly as a centerpiece in any collection.</span></p>
+<h3><span>Specifications</span></h3>
+<ul>
+<li>
+<strong><span>Wood:</span></strong><span> Premium Ashwood</span>
+</li>
+<li>
+<strong><span>Inlays:</span></strong><span> Handcrafted Resin &amp; Abalone Inlays</span>
+</li>
+<li>
+<strong><span>Wrap:</span></strong><span> Premium Luxe Wrap</span>
+</li>
+<li>
+<strong><span>Rings:</span></strong><span> Handcrafted Abalone Rings</span>
+</li>
+<li>
+<strong><span>Construction:</span></strong><span> Handcrafted Custom Cue</span>
+</li>
+<li>
+<strong><span>Brand:</span></strong><span> Cues Master</span>
+</li>
+</ul>
+<p><strong><span>Natural ashwood. Rich resin. Iridescent abalone. Timeless luxury—crafted into a cue with a presence all its own.</span></strong><span> 🎱</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8048335650864</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">18000.00</s:price>
+      <s:sku/>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cuesmastershop.com/products/8048412852272</id>
+    <published>2026-08-14T09:35:44+08:00</published>
+    <updated>2026-08-14T09:35:44+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/sapphire-noir-handcrafted-custom-pool-cue-cues-master"/>
+    <title>Sapphire Noir – Handcrafted Custom Pool Cue | Cues Master</title>
+    <s:type></s:type>
+    <s:vendor>Cues Master Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/456_3ba00a3a-7711-4da7-8546-184d0e3ede67.png?v=1786606483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="isSelectedEnd"><span>Bold, sophisticated, and designed to command attention, the </span><strong><span>Sapphire Noir</span></strong><span> is a handcrafted custom pool cue that brings together the natural character of premium ashwood, vivid blue resin, and the unmistakable shimmer of abalone. Its striking contrast creates a refined yet powerful aesthetic that balances modern design with timeless craftsmanship.</span></p>
+<p class="isSelectedEnd"><span>The </span><strong><span>premium ashwood forearm</span></strong><span> showcases warm, distinctive grain patterns that contrast beautifully against vibrant </span><strong><span>blue resin inlays</span></strong><span>. Carefully handcrafted geometric patterns combine rich resin with delicate </span><strong><span>abalone inlays</span></strong><span>, creating visual depth and movement while allowing the natural beauty of the wood to remain an integral part of the design.</span></p>
+<p class="isSelectedEnd"><span>The design continues into the lower section with a bold </span><strong><span>blue resin butt sleeve</span></strong><span>, creating a strong visual connection with the forearm while adding depth and color. Meticulously handcrafted </span><strong><span>abalone rings</span></strong><span> introduce subtle flashes of iridescence throughout the cue, tying the individual design elements together with refined detail.</span></p>
+<p class="isSelectedEnd"><span>A premium </span><strong><span>black crocodile wrap</span></strong><span> completes the handle, adding distinctive texture, luxurious character, and a comfortable feel in the hand. The precision </span><strong><span>Radial pin</span></strong><span> provides a solid and dependable connection between the butt and shaft.</span></p>
+<p class="isSelectedEnd"><span>Created for discerning players and collectors who appreciate bold design without sacrificing elegance, the Sapphire Noir is a distinctive expression of handcrafted cue artistry—where natural wood, vivid resin, shimmering abalone, and premium detailing come together in perfect balance.</span></p>
+<h3><span>Specifications</span></h3>
+<ul>
+<li>
+<strong><span>Wood:</span></strong><span> Premium Ashwood</span>
+</li>
+<li>
+<strong><span>Inlays:</span></strong><span> Handcrafted Resin &amp; Abalone Inlays</span>
+</li>
+<li>
+<strong><span>Butt Sleeve:</span></strong><span> Blue Resin</span>
+</li>
+<li>
+<strong><span>Wrap:</span></strong><span> Premium Black Crocodile Wrap</span>
+</li>
+<li>
+<strong><span>Rings:</span></strong><span> Handcrafted Abalone Rings</span>
+</li>
+<li>
+<strong><span>Pin:</span></strong><span> Radial</span>
+</li>
+<li>
+<strong><span>Construction:</span></strong><span> Handcrafted Custom Cue</span>
+</li>
+<li>
+<strong><span>Brand:</span></strong><span> Cues Master</span>
+</li>
+</ul>
+<p><strong><span>Natural ashwood. Deep blue resin. Iridescent abalone. Crocodile texture. A bold expression of handcrafted luxury—the Sapphire Noir.</span></strong><span> 🎱</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8048412852272</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">18000.00</s:price>
+      <s:sku/>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cuesmastershop.com/products/8037564678192</id>
+    <published>2026-08-02T17:49:04+08:00</published>
+    <updated>2026-08-02T17:49:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/imperial-heritage-handcrafted-custom-pool-cue-butt-cues-master"/>
+    <title>Maple x Spalted Tamarind x Resin (Butt only)</title>
+    <s:type></s:type>
+    <s:vendor>Cues Master Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/9479ac63-aec2-4d4b-b6c4-1fc6af6f840d.png?v=1785643358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="qMYqUG_convSearchResultHighlightRoot">
+<div class="">
+<section class="text-token-text-primary w-full focus:outline-none has-data-writing-block:pointer-events-none [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]" dir="auto">
+<div class="text-base my-auto mx-auto pb-8 [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)">
+<div class="[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn">
+<div class="flex max-w-full flex-col gap-4 grow">
+<div dir="auto" class="min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&amp;]:mt-1" tabindex="0">
+<div class="flex w-full flex-col gap-1 empty:hidden">
+<div class="markdown prose dark:prose-invert wrap-break-word w-full light markdown-new-styling">
+<p class="PDq2pG_selectionAnchorContainer">Crafted from <strong>premium Canadian maple</strong> and finished with a high-gloss resin coating, this cue enhances the natural beauty of the wood while delivering a deep, mirror-like finish. Rich <strong>spalted tamarind</strong> accents and meticulously handcrafted <strong>abalone diamond inlays</strong> create a striking visual contrast, while the <strong>premium Luxe wrap</strong> provides exceptional comfort and a secure grip during play.<span class="PDq2pG_selectionAnchor"></span></p>
+<p>Created for discerning players and collectors, the Imperial Heritage combines traditional craftsmanship with refined design. Whether paired with your preferred shaft or displayed as part of a premium collection, it stands as a testament to precision, elegance, and enduring quality.</p>
+<h3>Specifications</h3>
+<ul>
+<li>
+<strong>Weight:</strong> 15 oz</li>
+<li>
+<strong>Butt Length:</strong> 29.5"</li>
+<li>
+<strong>Pin:</strong> Radial</li>
+<li>
+<strong>Wood:</strong> Premium Canadian Maple</li>
+<li>
+<strong>Finish:</strong> High-Gloss Resin Coating</li>
+<li>
+<strong>Accent Wood:</strong> Spalted Tamarind</li>
+<li>
+<strong>Inlays:</strong> Handcrafted Abalone Diamond Inlays</li>
+<li>
+<strong>Wrap:</strong> Premium Luxe Wrap</li>
+<li>
+<strong>Configuration:</strong> Butt Only (Shaft Not Included)</li>
+</ul>
+<p><strong>Timeless craftsmanship. Refined elegance. Built to be admired for generations.</strong> 🎱</p>
+</div>
+</div>
+</div>
+</div>
+<div class="z-0 flex min-h-[46px] justify-start"><br></div>
+<div class="mt-3 w-full empty:hidden">
+<div class="text-center"><br></div>
+</div>
+</div>
+<div class="[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1">
+<div><br></div>
+</div>
+</div>
+</section>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8037564678192</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">23000.00</s:price>
+      <s:sku/>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cuesmastershop.com/products/8037575589936</id>
+    <published>2026-08-02T17:47:48+08:00</published>
+    <updated>2026-08-02T17:47:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/midnight-ember-handcrafted-custom-pool-cue-butt-cues-master"/>
+    <title>Maple x Resin Midnight Ember (Butt only)</title>
+    <s:type></s:type>
+    <s:vendor>Cues Master Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/5b413cef-d0d1-438b-af9d-371b58e39fc3.png?v=1785651982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="qMYqUG_convSearchResultHighlightRoot">
+<div class="">
+<section class="text-token-text-primary w-full focus:outline-none has-data-writing-block:pointer-events-none [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]" dir="auto">
+<div class="text-base my-auto mx-auto pb-8 [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)">
+<div class="[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn">
+<div class="flex max-w-full flex-col gap-4 grow">
+<div dir="auto" class="min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&amp;]:mt-1" tabindex="0">
+<div class="flex w-full flex-col gap-1 empty:hidden">
+<div class="markdown prose dark:prose-invert wrap-break-word w-full light markdown-new-styling">
+<p class="PDq2pG_selectionAnchorContainer">Bold, sophisticated, and meticulously handcrafted, the <strong>Midnight Ember</strong> is a striking fusion of natural beauty and modern craftsmanship. Built from <strong>premium Canadian maple</strong>, this custom cue butt features dramatic long points accented with <strong>stabilized burl wood</strong> and deep <strong>black resin</strong>, creating a design rich in depth, contrast, and character. A beautifully figured <strong>rosewood butt sleeve</strong> adds warmth and elegance, while the <strong>premium Luxe wrap</strong> provides a comfortable, secure grip for confident play.<span class="PDq2pG_selectionAnchor"></span></p>
+<p>Designed for discerning players and collectors, the Midnight Ember showcases the precision, artistry, and attention to detail that define every Cues Master creation. Whether paired with your preferred shaft for competition or displayed as part of a premium collection, it is a cue that commands attention both on and off the table.</p>
+<h3>Specifications</h3>
+<ul>
+<li>
+<strong>Weight:</strong> 15 oz</li>
+<li>
+<strong>Butt Length:</strong> 29.5"</li>
+<li>
+<strong>Pin:</strong> Radial</li>
+<li>
+<strong>Wood:</strong> Premium Canadian Maple</li>
+<li>
+<strong>Accent Materials:</strong> Stabilized Burl Wood &amp; Black Resin</li>
+<li>
+<strong>Butt Sleeve:</strong> Rosewood</li>
+<li>
+<strong>Wrap:</strong> Premium Luxe Wrap</li>
+<li>
+<strong>Configuration:</strong> Butt Only (Shaft Not Included)</li>
+</ul>
+<p><strong>Distinctive materials. Timeless craftsmanship. Designed to perform, built to be admired.</strong> 🎱</p>
+</div>
+</div>
+</div>
+</div>
+<div class="z-0 flex min-h-[46px] justify-start"><br></div>
+<div class="mt-3 w-full empty:hidden">
+<div class="text-center"><br></div>
+</div>
+</div>
+<div class="[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1">
+<div><br></div>
+</div>
+</div>
+</section>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8037575589936</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">24000.00</s:price>
+      <s:sku/>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cuesmastershop.com/products/8037583224880</id>
+    <published>2026-08-02T17:46:57+08:00</published>
+    <updated>2026-08-02T17:46:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/butterfly-handcrafted-custom-pool-cue-butt-cues-master"/>
+    <title>Butterfly Maple x Resin (Butt only)</title>
+    <s:type></s:type>
+    <s:vendor>Cues Master Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/d683821e-3292-4275-992b-cf0248fc9c96.png?v=1785656187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="PDq2pG_selectionAnchorContainer"> Handcrafted from <strong>premium Canadian maple</strong>, this custom cue butt features a flawlessly executed <strong>butterfly splice design</strong> enhanced by a lustrous <strong>pearl resin coating</strong>, vibrant multi-colored veneers, and meticulously handcrafted <strong>resin inlays</strong>. The flowing symmetry of the butterfly points creates striking visual depth, while the seamless <strong>resin wrap</strong> delivers a sleek, polished feel.<span class="PDq2pG_selectionAnchor"></span></p>
+<p>Designed for discerning players and collectors, the Butterfly Legacy reflects the craftsmanship, innovation, and attention to detail that define every Cues Master creation. Whether paired with your preferred shaft or displayed as part of a premium collection, it is a cue that celebrates tradition while embracing modern design.</p>
+<h3>Specifications</h3>
+<ul>
+<li>
+<strong>Weight:</strong> 15 oz</li>
+<li>
+<strong>Butt Length:</strong> 29.5"</li>
+<li>
+<strong>Pin:</strong> Radial</li>
+<li>
+<strong>Wood:</strong> Premium Canadian Maple</li>
+<li>
+<strong>Construction:</strong> Handcrafted Butterfly Splice Design, Pearl Resin Coating</li>
+<li>
+<strong>Inlays:</strong> Handcrafted Resin Inlays</li>
+<li>
+<strong>Veneers:</strong> Multi-Colored Veneers</li>
+<li>
+<strong>Wrap:</strong> Premium Resin Wrap</li>
+<li>
+<strong>Configuration:</strong> Butt Only (Shaft Not Included)</li>
+</ul>
+<p><strong>A timeless butterfly design, elevated through modern craftsmanship and built to stand apart.</strong> 🎱</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8037583224880</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">24000.00</s:price>
+      <s:sku/>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cuesmastershop.com/products/8037585518640</id>
+    <published>2026-08-02T17:46:31+08:00</published>
+    <updated>2026-08-02T17:46:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/emerald-fusion-handcrafted-custom-pool-cue-butt-cues-master"/>
+    <title>Butterfly x Maple x Resin (Butt only)</title>
+    <s:type></s:type>
+    <s:vendor>Cues Master Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/3d8d7a17-04df-4ce4-a7e9-b06624fd4c70.png?v=1785656920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="PDq2pG_selectionAnchorContainer">Bold, vibrant, and meticulously handcrafted, the <strong>Emerald Fusion</strong> reimagines the timeless butterfly cue with a contemporary blend of color, craftsmanship, and precision. Crafted from <strong>premium Canadian maple</strong>, this custom cue butt features expertly executed <strong>butterfly splice construction</strong> accented by vibrant <strong>multi-colored veneers</strong> that create striking depth and visual movement. The luxurious <strong>emerald resin wrap</strong> serves as the centerpiece, offering a seamless, high-gloss finish, exceptional durability, and a comfortable, confident grip.<span class="PDq2pG_selectionAnchor"></span></p>
+<p>Designed for discerning players and collectors, the Emerald Fusion seamlessly blends traditional cue-making techniques with modern materials. Every detail—from the precision butterfly splice work to the flawless resin finish—reflects the artistry, innovation, and uncompromising quality that define every Cues Master creation. Whether paired with your preferred shaft or displayed as part of a premium collection, this cue is designed to make a lasting impression.</p>
+<h3>Specifications</h3>
+<ul>
+<li>
+<strong>Weight:</strong> 15 oz</li>
+<li>
+<strong>Butt Length:</strong> 29.5"</li>
+<li>
+<strong>Pin:</strong> Radial</li>
+<li>
+<strong>Wood:</strong> Premium Canadian Maple</li>
+<li>
+<strong>Construction:</strong> Handcrafted Butterfly Splice Design</li>
+<li>
+<strong>Veneers:</strong> Multi-Colored Veneers</li>
+<li>
+<strong>Wrap:</strong> Premium Emerald Resin Wrap</li>
+<li>
+<strong>Configuration:</strong> Butt Only (Shaft Not Included)</li>
+</ul>
+<p><strong>Classic butterfly craftsmanship. Contemporary elegance. Handcrafted to perform and built to be admired.</strong> 🎱</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8037585518640</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">24000.00</s:price>
+      <s:sku/>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cuesmastershop.com/products/8037588467760</id>
+    <published>2026-08-02T17:45:59+08:00</published>
+    <updated>2026-08-02T17:45:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/crimson-elegance-handcrafted-custom-pool-cue-butt-cues-master"/>
+    <title>Maple x Crimson Resin (Butt only)</title>
+    <s:type></s:type>
+    <s:vendor>Cues Master Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/cf61b1ce-1954-4737-97f6-e6499679839e.png?v=1785658039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="PDq2pG_selectionAnchorContainer">The <strong>premium Canadian maple forearm</strong> is adorned with meticulously handcrafted <strong>resin and plastic ivory inlays</strong>, creating a sophisticated focal point that highlights the cue's clean lines and elegant proportions. A rich <strong>crimson resin wrap</strong> provides a seamless, high-gloss finish and a comfortable, confident grip, while the <strong>ebony butt sleeve</strong>, accented with matching resin and plastic ivory inlays, adds depth, contrast, and luxurious appeal.<span class="PDq2pG_selectionAnchor"></span></p>
+<p>Designed for discerning players and collectors, the Crimson Elegance embodies the precision, balance, and artistry that define every Cues Master creation. Whether paired with your preferred shaft for play or displayed as part of a premium collection, this cue is crafted to deliver exceptional performance with timeless style.</p>
+<h3>Specifications</h3>
+<ul>
+<li>
+<strong>Weight:</strong> 15 oz</li>
+<li>
+<strong>Butt Length:</strong> 29.5"</li>
+<li>
+<strong>Pin:</strong> Radial</li>
+<li>
+<strong>Forearm:</strong> Premium Canadian Maple with Handcrafted Resin &amp; Plastic Ivory Inlays</li>
+<li>
+<strong>Wrap:</strong> Resin Grip</li>
+<li>
+<strong>Butt Sleeve:</strong> Ebony with Handcrafted Resin &amp; Plastic Ivory Inlays</li>
+<li>
+<strong>Configuration:</strong> Butt Only (Shaft Not Included)</li>
+</ul>
+<p><strong>Classic elegance. Modern craftsmanship. Handcrafted to perform and built to be admired for generations.</strong> 🎱</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8037588467760</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">17000.00</s:price>
+      <s:sku/>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cuesmastershop.com/products/8037589352496</id>
+    <published>2026-08-02T17:45:26+08:00</published>
+    <updated>2026-08-02T17:45:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/amethyst-royale-handcrafted-custom-pool-cue-butt-cues-master"/>
+    <title>Ebony wood x Resin (Butt only)</title>
+    <s:type></s:type>
+    <s:vendor>Cues Master Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/1076f993-23e7-450b-b8c4-79839d5b5836.png?v=1785659423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="PDq2pG_selectionAnchorContainer"> Crafted from<strong> Canadian maple</strong>, the forearm showcases striking <strong>ebony points</strong> accented by vibrant <strong>multi-colored veneers</strong> and meticulously handcrafted <strong>abalone inlays</strong>, creating exceptional depth, contrast, and visual elegance. A lustrous <strong>amethyst resin coating</strong> enhances the natural beauty of the design with a rich, high-gloss finish, while the <strong>premium Black Luxe wrap</strong> provides a secure, comfortable grip and a refined playing experience.<span class="PDq2pG_selectionAnchor"></span></p>
+<p>The <strong>ebony butt sleeve</strong>, adorned with matching handcrafted abalone inlays, completes the cue with perfect harmony and sophistication. Designed for discerning players and collectors, the Amethyst Royale reflects the precision, artistry, and uncompromising craftsmanship that define every Cues Master creation. Whether paired with your preferred shaft for play or displayed as a centerpiece in a premium collection, this cue is built to impress from every angle.</p>
+<h3>Specifications</h3>
+<ul>
+<li>
+<strong>Weight:</strong> 15 oz</li>
+<li>
+<strong>Butt Length:</strong> 29.5"</li>
+<li>
+<strong>Pin:</strong> Radial</li>
+<li>
+<strong>Forearm:</strong> Premium Canadian Maple with Ebony Points, Multi-Colored Veneers &amp; Handcrafted Abalone Inlays</li>
+<li>
+<strong>Coating:</strong> High-Gloss Amethyst Resin Coating</li>
+<li>
+<strong>Wrap:</strong> Premium Black Luxe Wrap</li>
+<li>
+<strong>Butt Sleeve:</strong> Ebony with Handcrafted Abalone Inlays</li>
+<li>
+<strong>Configuration:</strong> Butt Only (Shaft Not Included)</li>
+</ul>
+<p><strong>Classic craftsmanship. Contemporary elegance. Handcrafted to perform and built to be admired for generations.</strong> 🎱</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8037589352496</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">23000.00</s:price>
+      <s:sku/>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cuesmastershop.com/products/8037590368304</id>
+    <published>2026-08-02T17:43:28+08:00</published>
+    <updated>2026-08-02T17:43:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/maple-crest-handcrafted-custom-pool-cue-butt-cues-master"/>
+    <title>Maple x Rosewood (Butt only)</title>
+    <s:type></s:type>
+    <s:vendor>Cues Master Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/9bde1631-94cf-41e2-86b3-751e676f60eb.png?v=1785661651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="PDq2pG_selectionAnchorContainer">Crafted from <strong>hard maple</strong>, the forearm showcases elegant <strong>long points</strong> accented with meticulously handcrafted <strong>resin inlays</strong>, creating a clean, sophisticated design that highlights the wood's distinctive figure. A <strong>premium Brown Luxe wrap</strong> offers a luxurious feel and a secure, comfortable grip, while the richly figured <strong>rosewood butt sleeve</strong> brings warmth, depth, and a refined finishing touch.<span class="PDq2pG_selectionAnchor"></span></p>
+<p>Designed for discerning players and collectors, the Maple Crest embodies the precision, balance, and exceptional craftsmanship that define every Cues Master creation. Every element is carefully crafted to enhance both performance and aesthetics, resulting in a cue that is as rewarding to play with as it is to admire. Whether paired with your preferred shaft or displayed as part of a distinguished collection, the Maple Crest is a timeless expression of handcrafted excellence.</p>
+<h3>Specifications</h3>
+<ul>
+<li>
+<strong>Weight:</strong> 15 oz</li>
+<li>
+<strong>Butt Length:</strong> 29.5"</li>
+<li>
+<strong>Pin:</strong> Radial</li>
+<li>
+<strong>Forearm:</strong> <strong>hard maple</strong> with Long Points &amp; Handcrafted Resin Inlays</li>
+<li>
+<strong>Wrap:</strong> Premium Brown Luxe Wrap</li>
+<li>
+<strong>Butt Sleeve:</strong> Premium Rosewood</li>
+<li>
+<strong>Configuration:</strong> Butt Only (Shaft Not Included)</li>
+</ul>
+<p><strong>Natural beauty. Precision craftsmanship. Handcrafted to perform and built to be admired for generations.</strong> 🎱</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8037590368304</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">15000.00</s:price>
+      <s:sku/>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cuesmastershop.com/products/8035961634864</id>
+    <published>2026-07-31T09:50:15+08:00</published>
+    <updated>2026-07-31T09:50:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/cm-003-butt-only"/>
+    <title>Maple x Resin (Butt only)</title>
+    <s:type></s:type>
+    <s:vendor>Cues Master Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/ChatGPTImageJul31_2026_09_40_28AM.png?v=1785462042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="PDq2pG_selectionAnchorContainer">Designed for players who value both performance and eye-catching craftsmanship, this custom cue combines premium materials with timeless point construction. The forearm and butt sleeve feature striking maple points accented with vibrant resin, while the matching resin handle provides a comfortable grip and a unique marbled appearance. Elegant abalone inlays add a refined finishing touch, making this cue stand out on and off the table.<span class="PDq2pG_selectionAnchor"></span></p>
+<p><strong>Specifications:</strong></p>
+<ul>
+<li>
+<strong>Weight:</strong> 15 oz</li>
+<li>
+<strong>Length:</strong> 29.5" Butt</li>
+<li>
+<strong>Pin:</strong> Radial</li>
+<li>
+<strong>Forearm:</strong> Resin &amp; Maple Points</li>
+<li>
+<strong>Handle:</strong> Resin</li>
+<li>
+<strong>Butt Sleeve:</strong> Resin &amp; Maple Points</li>
+<li>
+<strong>Inlays:</strong> Abalone</li>
+<li><strong>Handcrafted by Cues Master</strong></li>
+</ul>
+<p>Built for consistent playability and lasting durability, this cue delivers a solid hit with premium aesthetics—perfect for players seeking a distinctive custom cue.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8035961634864</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">25000.00</s:price>
+      <s:sku/>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

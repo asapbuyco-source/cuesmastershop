@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cuesmastershop.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cuesmastershop.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cuesmastershop.com/collections/calma-collection.atom"/>
+  <title>Cues Master Shop</title>
+  <updated>2026-08-02T17:50:03+08:00</updated>
+  <author>
+    <name>Cues Master Shop</name>
+  </author>
+  <entry>
+    <id>https://cuesmastershop.com/products/8037562974256</id>
+    <published>2026-08-02T17:50:03+08:00</published>
+    <updated>2026-08-02T17:50:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/celestial-blade"/>
+    <title>Ebony wood x Celestial Blade (Butt only)</title>
+    <s:type></s:type>
+    <s:vendor>Cues Master Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/d8006a64-94a4-4635-8bc6-69fc5510b84b.png?v=1785642634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="isSelectedEnd"><span>Inspired by the elegance of a legendary sword, the </span><strong><span>Celestial Blade</span></strong><span> is a handcrafted ebony cue butt that embodies precision, artistry, and timeless design. A meticulously handcrafted abalone sword inlay shimmers under the light, beautifully contrasted by the rich black ebony and clean white ringwork for a striking, sophisticated look.</span></p>
+<p class="isSelectedEnd"><span>Designed for discerning players and collectors, the Celestial Blade showcases exceptional craftsmanship and premium materials. Whether matched with your favorite shaft for play or displayed as part of a collection, this cue is a true statement of style and performance.</span></p>
+<h2><span>Specifications</span></h2>
+<ul>
+<li>
+<strong><span>Weight:</span></strong><span> 17 oz</span>
+</li>
+<li>
+<strong><span>Butt Length:</span></strong><span> 29.5"</span>
+</li>
+<li>
+<strong><span>Pin:</span></strong><span> Radial</span>
+</li>
+<li>
+<strong><span>Wood:</span></strong><span> Premium Ebony wood</span>
+</li>
+<li>
+<strong><span>Inlay:</span></strong><span> Handcrafted Abalone Sword design</span>
+</li>
+<li>
+<strong><span>Configuration:</span></strong><span> Butt Only (Shaft Not Included)</span>
+</li>
+</ul>
+<p><strong><span>Where craftsmanship meets legendary design.</span></strong><span> ⚔️🎱</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8037562974256</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">42000.00</s:price>
+      <s:sku/>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cuesmastershop.com/products/8033913798704</id>
+    <published>2026-07-28T15:41:25+08:00</published>
+    <updated>2026-07-28T15:41:25+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/cm-002"/>
+    <title>Ashwood x Wenge wood (Butt Only)</title>
+    <s:type></s:type>
+    <s:vendor>Cues Master Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/ChatGPT_Image_Jul_28_2026_04_00_23_PM.png?v=1785225639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="PDq2pG_selectionAnchorContainer">Features<span class="PDq2pG_selectionAnchor"></span>
+</h2>
+<ul>
+<li>29.5 inches</li>
+<li>18 oz</li>
+<li>Premium Ashwood forearm with beautiful natural grain</li>
+<li>Rich Wenge wood handle and butt sleeve</li>
+<li>Genuine abalone inlays for a luxurious appearance</li>
+<li>Precision-machined Radial 3/8×8 joint for a solid, consistent hit</li>
+<li>Intricate decorative ringwork</li>
+<li>Handcrafted by skilled cue makers</li>
+<li>High-gloss finish for lasting beauty and durability</li>
+<li>Excellent balance and playability</li>
+<li>Every cue features unique natural wood grain, making each piece one of a kind</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8033913798704</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">30000.00</s:price>
+      <s:sku/>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cuesmastershop.com/products/8033165410352</id>
+    <published>2026-07-27T18:14:02+08:00</published>
+    <updated>2026-07-27T18:14:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/asset-pack-85615640578-example-product-3"/>
+    <title>Wenge wood x Ahswood (Butt Only)</title>
+    <s:type></s:type>
+    <s:vendor>Cues Master Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/ChatGPT_Image_Jul_28_2026_10_28_46_AM.png?v=1785205740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="PDq2pG_selectionAnchorContainer">Features<span class="PDq2pG_selectionAnchor"></span>
+</h2>
+<p> </p>
+<ul>
+<li>29.5 inches</li>
+<li>15 oz</li>
+<li>Premium Ashwood handle for a clean, elegant appearance</li>
+</ul>
+<ul>
+<li>Rich Wenge wood forearm and butt sleeve with beautiful natural grain</li>
+<li>Genuine abalone inlays that shimmer under light</li>
+<li>Precision-machined Radial 3/8×8 pin for a solid, consistent hit</li>
+<li>Handcrafted by experienced cue makers</li>
+<li>Excellent balance and feedback for competitive play</li>
+<li>High-gloss finish for durability and a luxurious look</li>
+<li>Each cue is unique due to the natural characteristics of the wood</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sample Product</s:tag>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8033165410352</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">30000.00</s:price>
+      <s:sku/>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

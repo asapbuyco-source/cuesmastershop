@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cuesmastershop.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cuesmastershop.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cuesmastershop.com/collections/gloves.atom"/>
+  <title>Cues Master Shop</title>
+  <updated>2026-08-18T10:28:42+08:00</updated>
+  <author>
+    <name>Cues Master Shop</name>
+  </author>
+  <entry>
+    <id>https://cuesmastershop.com/products/8049482170416</id>
+    <published>2026-08-18T10:28:42+08:00</published>
+    <updated>2026-08-18T10:28:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/caiden-gloves"/>
+    <title>Caiden Gloves</title>
+    <s:type></s:type>
+    <s:vendor>Cues Master Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/c895c7a9-de2d-4804-85cc-0f38c950215d.png?v=1786679524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="isSelectedEnd"><span>The </span><strong><span>Caiden Gloves</span></strong><span> are high-performance billiard gloves designed to provide smooth cue movement, comfortable hand positioning, and consistent bridge-hand control. Built with performance fabrics and ergonomic construction, Caiden offers multiple glove designs to match the individual preferences and playing styles of today's players.</span></p>
+<p class="isSelectedEnd"><span>The gloves feature </span><strong><span>Ultra Slick Fabric</span></strong><span> for a smooth, low-friction surface, while </span><strong><span>Hyper Cool technology</span></strong><span> helps maintain comfort during extended sessions. Each model offers a different balance of coverage, ventilation, and direct hand contact, allowing players to choose the feel that best complements their stroke.</span></p>
+<h3><span>Features</span></h3>
+<ul>
+<li>
+<strong><span>Ultra Slick Fabric</span></strong><span> for smooth cue movement</span>
+</li>
+<li>
+<strong><span>Hyper Cool technology</span></strong><span> for enhanced cooling and comfort</span>
+</li>
+<li><span>Ergonomic, close-fitting construction</span></li>
+<li><span>Lightweight and flexible design</span></li>
+<li><span>Designed to reduce friction between the bridge hand and cue shaft</span></li>
+<li><span>Anti-slip palm features for added stability</span></li>
+<li><span>Available in different finger configurations</span></li>
+<li><span>Designed for consistent bridge-hand movement and stroke control</span></li>
+</ul>
+<h3><span>Available Models</span></h3>
+<p class="isSelectedEnd"><strong><span>Classic</span></strong><span> — Full-finger design with an anti-slip silicone logo on the palm. Ideal for players who prefer maximum coverage and a smooth, traditional glove feel.</span></p>
+<p class="isSelectedEnd"><strong><span>Comfort</span></strong><span> — Hybrid open-finger design with the thumb and index finger covered while the middle finger remains open. Features thinner fabric, ProCool Mesh, and a non-slip suede palm pad for improved ventilation and enhanced feel.</span></p>
+<p class="isSelectedEnd"><strong><span>Contact</span></strong><span> — Open-finger design with all fingers exposed, providing maximum finger freedom and a more direct connection with the cue.</span></p>
+<h3><span>Performance</span></h3>
+<ul>
+<li>
+<strong><span>Ultra Slick Feel</span></strong><span> — Promotes smooth and effortless cue movement</span>
+</li>
+<li>
+<strong><span>Hyper Cool Comfort</span></strong><span> — Helps maintain comfort during extended playing sessions</span>
+</li>
+<li>
+<strong><span>Ergonomic Fit</span></strong><span> — Follows the natural movement of the hand</span>
+</li>
+<li>
+<strong><span>Flexible Options</span></strong><span> — Multiple designs allow players to choose their preferred level of coverage and hand contact</span>
+</li>
+<li>
+<strong><span>Stable Bridge</span></strong><span> — Anti-slip palm features provide additional stability during the stroke</span>
+</li>
+</ul>
+<h3><span>Perfect For</span></h3>
+<p class="isSelectedEnd"><span>Players looking for a performance-oriented billiard glove that combines </span><strong><span>smooth cue movement, cooling comfort, flexibility, and reliable bridge-hand control</span></strong><span>, with Classic, Comfort, and Contact designs to suit different playing preferences.</span></p>
+<p><strong><span>Smooth movement. Cool comfort. Total control. Caiden Gloves are built to keep your stroke effortless.</span></strong><span> 🎱</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8049482170416</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2200.00</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cuesmastershop.com/products/8049479680048</id>
+    <published>2026-08-18T10:28:01+08:00</published>
+    <updated>2026-08-18T10:28:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/how-gloves"/>
+    <title>HOW Gloves</title>
+    <s:type></s:type>
+    <s:vendor>Cues Master Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/7ade883a-d639-4c09-b29e-305b9ffe56a1.png?v=1786678581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="isSelectedEnd"><span>The </span><strong><span>HOW Gloves</span></strong><span> are designed for players who demand a smooth, consistent stroke with unrestricted hand movement. Built with a lightweight and flexible construction, these billiard gloves create a low-friction surface between the bridge hand and cue shaft, allowing the cue to glide smoothly through the fingers for greater stroke consistency and control.</span></p>
+<p class="isSelectedEnd"><span>The back of the glove features </span><strong><span>high-stretch Lycra</span></strong><span>, providing flexibility and breathability for comfortable play during extended sessions. A </span><strong><span>reinforced anti-slip palm</span></strong><span> adds stability and durability, helping maintain a secure bridge position while allowing natural movement throughout the stroke.</span></p>
+<h3><span>Features</span></h3>
+<ul>
+<li>
+<span>High-stretch </span><strong><span>Lycra back</span></strong><span> for flexibility and breathability</span>
+</li>
+<li>
+<span>Reinforced </span><strong><span>anti-slip palm</span></strong><span> for added stability</span>
+</li>
+<li><span>Lightweight construction for comfortable extended play</span></li>
+<li><span>Close, comfortable fit without restricting hand movement</span></li>
+<li><span>Smooth surface designed to reduce friction against the cue shaft</span></li>
+<li><span>Helps promote a smoother and more consistent stroke</span></li>
+<li>
+<span>Available for </span><strong><span>left and right hands</span></strong>
+</li>
+<li>
+<span>Available in </span><strong><span>XS, S/M, L/XL, and 2XL</span></strong>
+</li>
+<li><span>Available in multiple colors</span></li>
+</ul>
+<h3><span>Available Colors</span></h3>
+<p class="isSelectedEnd"><strong><span>Army Green, Black, Deep Pink, Dream Purple, Grey, Lemon Yellow, Mint Blue, Navy Blue, Peacock Blue, Rose Pink, Sakura Pink, and Wine Red</span></strong></p>
+<h3><span>Perfect For</span></h3>
+<p class="isSelectedEnd"><span>Players looking for a lightweight, breathable, and flexible billiard glove that provides </span><strong><span>smooth cue movement, a stable bridge, and consistent performance</span></strong><span> from practice sessions to competitive play.</span></p>
+<p><strong><span>Smooth movement. Secure control. Consistent strokes. HOW Gloves are made to keep your game flowing.</span></strong><span> 🎱</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8049479680048</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1700.00</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cuesmastershop.com/products/8049512153136</id>
+    <published>2026-08-18T10:27:19+08:00</published>
+    <updated>2026-08-18T10:27:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/predator-second-skin-glove"/>
+    <title>Predator Second Skin Glove</title>
+    <s:type></s:type>
+    <s:vendor>Cues Master Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/f91eca77-df9c-407b-8c7b-63ef3538f120.png?v=1786685040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="isSelectedEnd"><span>The </span><strong><span>Predator Second Skin Glove</span></strong><span> is a high-performance billiard glove engineered for players who demand an exceptionally smooth cue glide and a close, natural fit. Its </span><strong><span>Second-Skin low-friction surface</span></strong><span> minimizes drag between the bridge hand and cue shaft, helping players achieve a smoother, more consistent stroke with greater control.</span></p>
+<p class="isSelectedEnd"><span>Constructed with </span><strong><span>Ultra-Dry breathable mesh and Lycra</span></strong><span>, the glove combines flexibility, ventilation, and comfort for extended playing sessions. The </span><strong><span>non-slip thumb heel pad</span></strong><span> provides additional stability around the bridge hand, while double-stitched construction and an </span><strong><span>Elastic-Velcro closure</span></strong><span> help deliver durability and a secure, comfortable fit.</span></p>
+<h3><span>Features</span></h3>
+<ul>
+<li>
+<strong><span>Second-Skin low-friction surface</span></strong><span> for smooth cue movement</span>
+</li>
+<li>
+<strong><span>Ultra-Dry breathable mesh and Lycra</span></strong><span> construction</span>
+</li>
+<li><span>Close-fitting, flexible second-skin feel</span></li>
+<li>
+<strong><span>Non-slip thumb heel pad</span></strong><span> for added stability</span>
+</li>
+<li><span>Double-stitched construction for improved durability</span></li>
+<li>
+<strong><span>Elastic-Velcro closure</span></strong><span> for a secure and comfortable fit</span>
+</li>
+<li><span>Designed to reduce friction between the bridge hand and cue shaft</span></li>
+<li><span>Available in different finger configurations</span></li>
+<li>
+<span>Available for </span><strong><span>left and right hands</span></strong>
+</li>
+<li>
+<span>Available in </span><strong><span>XXS, S/M, L/XL, and XXL</span></strong>
+</li>
+</ul>
+<h3><span>Available Configurations</span></h3>
+<p class="isSelectedEnd"><strong><span>Fingerless / Open-Fingertip</span></strong><span> — Provides greater fingertip freedom and direct hand contact while maintaining the smooth Second Skin feel.</span></p>
+<p class="isSelectedEnd"><strong><span>Closed-Thumb</span></strong><span> — Offers additional thumb coverage while preserving flexibility and low-friction cue movement.</span></p>
+<p class="isSelectedEnd"><strong><span>Closed-Finger</span></strong><span> — Provides full finger coverage for players who prefer maximum glove coverage and protection.</span></p>
+<h3><span>Performance</span></h3>
+<ul>
+<li>
+<strong><span>Second-Skin Glide</span></strong><span> — Low-friction surface allows the cue shaft to move smoothly through the bridge hand.</span>
+</li>
+<li>
+<strong><span>Ultra-Dry Comfort</span></strong><span> — Breathable mesh helps keep the hand comfortable during extended play.</span>
+</li>
+<li>
+<strong><span>Stable Bridge</span></strong><span> — Non-slip thumb heel pad provides additional control and stability.</span>
+</li>
+<li>
+<strong><span>Flexible Fit</span></strong><span> — Lycra construction allows natural hand movement without feeling restrictive.</span>
+</li>
+<li>
+<strong><span>Secure Fit</span></strong><span> — Elastic-Velcro closure helps keep the glove comfortably positioned during play.</span>
+</li>
+<li>
+<strong><span>Built to Last</span></strong><span> — Double-stitched construction reinforces areas exposed to repeated movement.</span>
+</li>
+</ul>
+<h3><span>Perfect For</span></h3>
+<p class="isSelectedEnd"><span>Players looking for a high-performance billiard glove that delivers </span><strong><span>smooth cue movement, low friction, breathability, flexibility, and consistent bridge-hand control</span></strong><span> from everyday practice to competitive play.</span></p>
+<p><strong><span>Second-skin comfort. Ultra-smooth glide. Total control. Predator Second Skin is built for a stroke without limits.</span></strong><span> 🎱</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8049512153136</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2600.00</s:price>
+      <s:sku/>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

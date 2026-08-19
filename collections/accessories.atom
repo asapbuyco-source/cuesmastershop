@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cuesmastershop.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cuesmastershop.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cuesmastershop.com/collections/accessories.atom"/>
+  <title>Cues Master Shop</title>
+  <updated>2026-07-29T20:15:29+08:00</updated>
+  <author>
+    <name>Cues Master Shop</name>
+  </author>
+  <entry>
+    <id>https://cuesmastershop.com/products/8034523512880</id>
+    <published>2026-07-29T20:15:29+08:00</published>
+    <updated>2026-07-29T20:15:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/kamui-athlete"/>
+    <title>Kamui Athlete</title>
+    <s:type></s:type>
+    <s:vendor>Cues Master Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/ChatGPTImageJul29_2026_08_15_52PM.png?v=1785327366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="PDq2pG_selectionAnchorContainer">Kamui Athlete Cue Tip<span class="PDq2pG_selectionAnchor"></span>
+</h2>
+<p>The <strong>Kamui Athlete Cue Tip</strong> is engineered for players who demand precision, consistency, and confidence under pressure. Developed with Kamui's advanced leather technology, the Athlete series delivers exceptional cue ball control, reliable feedback, and long-lasting performance for today's competitive game.</p>
+<p>Designed to maintain its shape while providing excellent chalk retention, the Kamui Athlete minimizes miscues and offers a consistent hit throughout its lifespan. Whether you're executing powerful break shots or precise positional play, this tip provides the control and responsiveness needed to perform at your best.</p>
+<h3>Features</h3>
+<ul>
+<li>Premium multi-layer leather construction</li>
+<li>Outstanding chalk retention for enhanced grip</li>
+<li>Consistent hit with excellent cue ball control</li>
+<li>Durable design with superior shape retention</li>
+<li>Reduces miscues for greater shot confidence</li>
+<li>Available in <strong>Soft (S), Medium (M), and Hard (H)</strong>
+</li>
+<li>14mm diameter</li>
+<li>Ideal for recreational, league, and professional players</li>
+</ul>
+<p><strong>Perfect for:</strong> Players seeking a premium cue tip that delivers exceptional consistency, precision, and dependable performance in every match.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8034523512880</id>
+      <title>Hard</title>
+      <s:price currency="PHP">1800.00</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8034523512880</id>
+      <title>Medium</title>
+      <s:price currency="PHP">1800.00</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cuesmastershop.com/products/8034523283504</id>
+    <published>2026-07-29T20:12:27+08:00</published>
+    <updated>2026-07-29T20:12:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/turning-point-chalk"/>
+    <title>Turning Point Chalk</title>
+    <s:type></s:type>
+    <s:vendor>Cues Master Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/ChatGPTImageJul29_2026_08_09_42PM.png?v=1785327043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="PDq2pG_selectionAnchorContainer">Turning Point 7500 Professional Billiard Chalk<span class="PDq2pG_selectionAnchor"></span>
+</h2>
+<p>Experience next-level cue control with the <strong>Turning Point 7500 Professional Billiard Chalk</strong>. Engineered with exclusive <strong>Multi-Particle Fusion Technology</strong>, it combines multiple particle sizes to create an ultra-fine 7500-mesh formula that delivers exceptional grip, smooth application, and consistent performance.</p>
+<p>Designed for players of every skill level, TP 7500 adheres evenly to all cue tips—including playing, break, and jump cues—to help reduce miscues while maximizing spin, accuracy, and confidence on every shot. Its premium formulation provides long-lasting coverage with minimal chalking, while the compact protective case keeps your chalk clean and ready for competition. <span class=""></span></p>
+<h3>Features</h3>
+<ul>
+<li>Ultra-fine <strong>7500-mesh</strong> professional formula</li>
+<li>Exclusive <strong>Multi-Particle Fusion Technology</strong>
+</li>
+<li>Excellent grip for enhanced spin and cue ball control</li>
+<li>Helps reduce miscues and improve shot consistency</li>
+<li>Compatible with all cue tip types, including break and jump cues</li>
+<li>Smooth, even application with long-lasting adhesion</li>
+<li>Premium protective case for convenient storage and portability <span class=""></span>
+</li>
+</ul>
+<p><strong>Perfect for:</strong> Competitive players, league players, and professionals seeking reliable chalk performance with outstanding control and consistency.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8034523283504</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2300.00</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cuesmastershop.com/products/8034519973936</id>
+    <published>2026-07-29T19:55:37+08:00</published>
+    <updated>2026-07-29T19:55:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/taom-pro"/>
+    <title>Taom Pro</title>
+    <s:type></s:type>
+    <s:vendor>Cues Master Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/ChatGPTImageJul29_2026_07_53_02PM.png?v=1785326039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="text-base my-auto mx-auto [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)">
+<div class="[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn">
+<div class="flex max-w-full flex-col gap-4 grow">
+<div dir="auto" class="min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&amp;]:mt-1">
+<div class="flex w-full flex-col gap-1 empty:hidden">
+<div class="markdown prose dark:prose-invert wrap-break-word w-full dark markdown-new-styling">
+<p class="PDq2pG_selectionAnchorContainer">The <strong>Taom Pro Cue Tip</strong> is designed for players who value precision, consistency, and a clean, controlled hit. Crafted from premium multi-layer leather, it delivers exceptional cue ball control, excellent chalk retention, and a consistent feel throughout its lifespan.<span class="PDq2pG_selectionAnchor"></span></p>
+<p>Engineered for long-lasting performance, the Taom Pro maintains its shape and firmness over extended play, helping reduce miscues while providing the confidence needed for accurate position play and spin. Whether you're competing in tournaments or enjoying league matches, the Taom Pro offers the reliability trusted by serious players.</p>
+<h3>Features</h3>
+<ul>
+<li>Premium multi-layer leather construction</li>
+<li>Excellent chalk retention for consistent performance</li>
+<li>Precise cue ball control and enhanced spin</li>
+<li>Durable design with superior shape retention</li>
+<li>Consistent feel from the first shot to the last</li>
+<li>Reduces miscues for improved shot confidence</li>
+<li>Available in <strong>Soft (S), Medium (M), and Hard (H)</strong>
+</li>
+<li>14mm diameter</li>
+</ul>
+<p><strong>Perfect for:</strong> League, competitive, and professional players looking for a premium cue tip that delivers reliable performance, excellent control, and long-lasting durability.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="z-0 flex min-h-[46px] justify-start"><br></div>
+</div>
+<div class="[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1">
+<div><br></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8034519973936</id>
+      <title>Hard</title>
+      <s:price currency="PHP">1800.00</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8034519973936</id>
+      <title>Medium</title>
+      <s:price currency="PHP">1800.00</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8034519973936</id>
+      <title>Soft</title>
+      <s:price currency="PHP">1800.00</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cuesmastershop.com/products/8034518892592</id>
+    <published>2026-07-29T19:49:25+08:00</published>
+    <updated>2026-07-29T19:49:25+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/caiden"/>
+    <title>Caiden Warrior &amp; Fighter</title>
+    <s:type></s:type>
+    <s:vendor>Cues Master Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/1b0b28b5-ca6b-4544-a6d8-01120f4ee9a3.png?v=1786676226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="PDq2pG_selectionAnchorContainer">Caiden Warrior Cue Tip<span class="PDq2pG_selectionAnchor"></span>
+</h2>
+<p class="">The <strong>Caiden Warrior Cue Tip</strong> is designed to deliver dependable performance, excellent cue ball control, and consistent playability. Constructed from premium multi-layer leather, it provides a solid, responsive hit with enhanced chalk retention to help minimize miscues and maximize shot accuracy.</p>
+<p>Engineered for durability and consistency, the Caiden Warrior maintains its shape through extended play, making it an excellent choice for players seeking reliable performance at an exceptional value. Available in multiple hardness options to suit every playing style.</p>
+<h3>Features</h3>
+<ul>
+<li>Premium multi-layer leather construction</li>
+<li>Excellent chalk retention for improved grip</li>
+<li>Consistent feel and reliable cue ball control</li>
+<li>Durable design with long-lasting shape retention</li>
+<li>Reduces miscues for greater confidence on every shot</li>
+<li>Available in <strong>Super Soft (SS), Soft (S), Medium (M), and Hard (H)</strong>
+</li>
+<li>14mm diameter</li>
+</ul>
+<p><strong>Perfect for:</strong> Recreational, league, and competitive players looking for a durable, high-performance cue tip that offers excellent control, consistency, and value.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8034518892592</id>
+      <title>Hard</title>
+      <s:price currency="PHP">1800.00</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8034518892592</id>
+      <title>Medium</title>
+      <s:price currency="PHP">1800.00</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cuesmastershop.com/products/8034518892592</id>
+      <title>Soft</title>
+      <s:price currency="PHP">1800.00</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>
