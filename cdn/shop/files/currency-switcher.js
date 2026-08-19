@@ -33,7 +33,12 @@ function cmStorageSet(key, value) {
     try { localStorage.setItem(key, value); } catch (e) { /* ignore */ }
 }
 
-var selectedCurrency = cmStorageGet('cm_currency', 'PHP');
+var selectedCurrency = cmStorageGet('cm_currency', 'USD');
+if (selectedCurrency === 'PHP') {
+    // PHP is no longer offered; migrate existing visitors to USD
+    selectedCurrency = 'USD';
+    cmStorageSet('cm_currency', 'USD');
+}
 
 function convertPrice(phpAmount, toCurrency) {
     var rate = CURRENCY_RATES[toCurrency] || 1;
@@ -108,7 +113,7 @@ function interceptLocalizationForms() {
 
             var countryCode = link.getAttribute('data-value');
             var countryToCurrency = {
-                PH: 'PHP', US: 'USD', GB: 'GBP', CA: 'CAD',
+                US: 'USD', GB: 'GBP', CA: 'CAD',
                 AU: 'AUD', SG: 'SGD', JP: 'JPY', AE: 'AED',
                 MY: 'MYR', HK: 'HKD', KR: 'KRW',
                 AT: 'EUR', BE: 'EUR', DE: 'EUR', ES: 'EUR',
@@ -133,9 +138,9 @@ function interceptLocalizationForms() {
 
 document.addEventListener('DOMContentLoaded', function () {
     tagPrices();
-    if (selectedCurrency !== 'PHP') {
-        applyPrices(selectedCurrency);
-    }
+    // Always apply: prices are stored in PHP and must be converted to the
+    // selected currency (USD by default).
+    applyPrices(selectedCurrency);
     updateDropdownLabel(selectedCurrency);
     interceptLocalizationForms();
 });
