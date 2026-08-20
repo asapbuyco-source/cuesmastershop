@@ -40,6 +40,43 @@ if (selectedCurrency === 'PHP') {
     cmStorageSet('cm_currency', 'USD');
 }
 
+// ------------------------------------------------------------
+// Live exchange rates: refresh once a day from open.er-api.com.
+// Falls back to the hardcoded table above when offline.
+// ------------------------------------------------------------
+var CURRENCY_KEYS = ['USD', 'EUR', 'GBP', 'CAD', 'AUD', 'SGD', 'JPY', 'AED', 'MYR', 'HKD', 'KRW'];
+
+function setRates(rates) {
+    var next = { PHP: 1 };
+    CURRENCY_KEYS.forEach(function (code) {
+        var r = rates[code];
+        next[code] = r ? Number(r) : CURRENCY_RATES[code];
+    });
+    CURRENCY_RATES = next;
+}
+
+function refreshLiveRates() {
+    var cached = cmStorageGet('cm_rates', '');
+    var ts = cmStorageGet('cm_rates_ts', '0');
+    var age = Date.now() - Number(ts);
+    if (cached && age >= 0 && age < 86400000) {
+        try { setRates(JSON.parse(cached)); return; } catch (e) { /* fall through */ }
+    }
+    try {
+        fetch('https://open.er-api.com/v6/latest/PHP')
+            .then(function (r) { return r.json(); })
+            .then(function (d) {
+                if (!d || d.result !== 'success' || !d.rates) return;
+                setRates(d.rates);
+                cmStorageSet('cm_rates', JSON.stringify(d.rates));
+                cmStorageSet('cm_rates_ts', String(Date.now()));
+                tagPrices();
+                applyPrices(selectedCurrency);
+            })
+            .catch(function () { /* keep hardcoded rates */ });
+    } catch (e) { /* keep hardcoded rates */ }
+}
+
 function convertPrice(phpAmount, toCurrency) {
     var rate = CURRENCY_RATES[toCurrency] || 1;
     var converted = Number(phpAmount) * rate;
@@ -143,4 +180,5 @@ document.addEventListener('DOMContentLoaded', function () {
     applyPrices(selectedCurrency);
     updateDropdownLabel(selectedCurrency);
     interceptLocalizationForms();
+    refreshLiveRates();
 });

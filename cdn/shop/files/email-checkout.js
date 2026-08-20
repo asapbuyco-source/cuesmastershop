@@ -858,6 +858,8 @@
       '  line-height: 1.7;',
       '}',
       '.cm-pop-brand { color: rgba(255, 255, 255, 0.55); font-size: 1.05rem; letter-spacing: 0.22em; text-transform: uppercase; margin: 0 0 0.5rem; }',
+      '.cm-pop-avail { color: #d49d37; font-weight: 600; font-size: 1.35rem; letter-spacing: 0.06em; text-transform: uppercase; margin: 0 0 1rem; }',
+      '.cm-avail-label { color: #d49d37; font-weight: 600; font-size: 1.2rem; letter-spacing: 0.06em; text-transform: uppercase; }',
       '@keyframes cm-card-in {',
       '  from { opacity: 0; transform: translateY(14px); }',
       '  to { opacity: 1; transform: none; }',
@@ -1230,89 +1232,118 @@
     forms.forEach(function (form) {
       var btn = form.querySelector('button[type="submit"], button[name="add"]');
       styleAddButton(btn);
-
-      form.addEventListener('submit', function (e) {
-        e.preventDefault();
-        e.stopImmediatePropagation();
-
-        var qty = 1;
-        var qtyInput = form.querySelector('input[name="quantity"]');
-        if (qtyInput) qty = Math.max(1, parseInt(qtyInput.value, 10) || 1);
-
-        addToCart({
-          title: getProductTitle(),
-          price: getProductPrice(),
-          image: getProductImage(),
-          quantity: qty,
-          url: getPageUrl()
-        });
-
-        var submitBtn = form.querySelector('button[type="submit"], button[name="add"]');
-        if (submitBtn) {
-          var span = submitBtn.querySelector('span');
-          var target = span || submitBtn;
-          target.textContent = '\u2713 Enter Cart';
-          submitBtn.style.backgroundColor = '#25d366';
-          submitBtn.style.borderColor = '#25d366';
-          submitBtn.style.color = '#0a0a0a';
-          if (!submitBtn.dataset.cmEnterCartBound) {
-            submitBtn.dataset.cmEnterCartBound = '1';
-            var prefix = '';
-            if (window.location.pathname.split('/').filter(Boolean).length > 1) {
-              prefix = '../';
-            }
-            submitBtn.addEventListener('click', function (e2) {
-              if (submitBtn.dataset.cmEnterCartBound !== '2') return;
-              e2.preventDefault();
-              e2.stopImmediatePropagation();
-              window.location.href = prefix + 'cart.html';
-            });
-          }
-          submitBtn.dataset.cmEnterCartBound = '2';
-        }
-      });
     });
+  }
+
+  function handleCartAdd(form) {
+    var qty = 1;
+    var qtyInput = form.querySelector('input[name="quantity"]');
+    if (qtyInput) qty = Math.max(1, parseInt(qtyInput.value, 10) || 1);
+
+    addToCart({
+      title: form.dataset.productTitle || getProductTitle(),
+      price: parseFloat(form.dataset.productPrice || '') || getProductPrice(),
+      image: form.dataset.productImage || getProductImage(),
+      quantity: qty,
+      url: form.dataset.productUrl || getPageUrl()
+    });
+
+    var submitBtn = form.querySelector('button[type="submit"], button[name="add"]');
+    if (submitBtn) {
+      var span = submitBtn.querySelector('span');
+      var target = span || submitBtn;
+      target.textContent = '\u2713 Enter Cart';
+      submitBtn.style.backgroundColor = '#25d366';
+      submitBtn.style.borderColor = '#25d366';
+      submitBtn.style.color = '#0a0a0a';
+      if (!submitBtn.dataset.cmEnterCartBound) {
+        submitBtn.dataset.cmEnterCartBound = '1';
+        var prefix = '';
+        if (window.location.pathname.split('/').filter(Boolean).length > 1) {
+          prefix = '../';
+        }
+        submitBtn.addEventListener('click', function (e2) {
+          if (submitBtn.dataset.cmEnterCartBound !== '2') return;
+          e2.preventDefault();
+          e2.stopImmediatePropagation();
+          window.location.href = prefix + 'cart.html';
+        });
+      }
+      submitBtn.dataset.cmEnterCartBound = '2';
+    }
   }
 
   // ------------------------------------------------------------
   // Contact / newsletter forms -> mailto
   // ------------------------------------------------------------
-  function setupContactForms() {
-    var forms = document.querySelectorAll('form[action*="contact"]');
-    forms.forEach(function (form) {
-      form.addEventListener('submit', function (e) {
-        e.preventDefault();
-        e.stopImmediatePropagation();
+  function handleAvailability(form) {
+    var title = form.dataset.productTitle || getProductTitle();
+    var qty = 1;
+    var qtyInput = form.querySelector('input[name="quantity"]');
+    if (qtyInput) qty = Math.max(1, parseInt(qtyInput.value, 10) || 1);
 
-        var isNewsletter = form.id === 'ContactFooter' ||
-                           (form.querySelector('input[name="contact[tags]"]') &&
-                            (form.querySelector('input[name="contact[tags]"]').value || '').indexOf('newsletter') !== -1);
+    var bodyText =
+      'Hello,\n\nI am interested in the following product:\n\n' +
+      '- ' + title + '\n' +
+      '  Quantity: ' + qty + '\n' +
+      '  Link: ' + getPageUrl() + '\n\n' +
+      'Please let me know the current availability and price.\n\n' +
+      'My Details:\nName: \nPhone: \nAddress: \n';
 
-        var subject = isNewsletter
-          ? 'New Newsletter Subscription'
-          : 'New Contact Request from Website';
+    window.location.href =
+      'mailto:' + ORDER_EMAIL +
+      '?subject=' + encodeURIComponent('Availability Request - ' + title) +
+      '&body=' + encodeURIComponent(bodyText);
+  }
 
-        var bodyText = isNewsletter
-          ? 'Hello,\n\nPlease subscribe me to your newsletter.\n\n'
-          : 'Hello,\n\nI am reaching out regarding:\n\n';
+  // ------------------------------------------------------------
+  // "Check Availability" products: hide prices on collection cards
+  // ------------------------------------------------------------
+  var AVAILABILITY_SLUGS = ['predator-10k-pool-cue', 'predator-9k-pool-cue', 'predator-bk-rush-break-cue'];
 
-        form.querySelectorAll('input, textarea, select').forEach(function (input) {
-          var name = input.name || '';
-          if (!name || name === 'utf8' || name === 'form_type' || name === '_method' || name === 'return_to') return;
-          var value = (input.value || '').trim();
-          if (!value) return;
-          var label = name.replace('contact[', '').replace(']', '');
-          bodyText += label + ': ' + value + '\n';
-        });
-
-        bodyText += '\n\nMy Details:\nName: \nPhone: \nAddress: \n';
-
-        window.location.href =
-          'mailto:' + ORDER_EMAIL +
-          '?subject=' + encodeURIComponent(subject) +
-          '&body=' + encodeURIComponent(bodyText);
-      });
+  function initAvailabilityCards() {
+    document.querySelectorAll('.card-wrapper, .product-card-wrapper').forEach(function (card) {
+      var link = card.querySelector('a[href*=".html"]');
+      if (!link) return;
+      var href = link.getAttribute('href') || '';
+      var isAvail = AVAILABILITY_SLUGS.some(function (s) { return href.indexOf(s) !== -1; });
+      if (!isAvail) return;
+      var priceEl = card.querySelector('.card__price, .price, [data-php-price]');
+      if (priceEl) {
+        priceEl.innerHTML = '<span class="cm-avail-label">Check Availability</span>';
+      }
+      card.querySelectorAll('.badge').forEach(function (b) { b.style.display = 'none'; });
     });
+  }
+
+  function handleContact(form) {
+    var isNewsletter = form.id === 'ContactFooter' ||
+                       (form.querySelector('input[name="contact[tags]"]') &&
+                        (form.querySelector('input[name="contact[tags]"]').value || '').indexOf('newsletter') !== -1);
+
+    var subject = isNewsletter
+      ? 'New Newsletter Subscription'
+      : 'New Contact Request from Website';
+
+    var bodyText = isNewsletter
+      ? 'Hello,\n\nPlease subscribe me to your newsletter.\n\n'
+      : 'Hello,\n\nI am reaching out regarding:\n\n';
+
+    form.querySelectorAll('input, textarea, select').forEach(function (input) {
+      var name = input.name || '';
+      if (!name || name === 'utf8' || name === 'form_type' || name === '_method' || name === 'return_to') return;
+      var value = (input.value || '').trim();
+      if (!value) return;
+      var label = name.replace('contact[', '').replace(']', '');
+      bodyText += label + ': ' + value + '\n';
+    });
+
+    bodyText += '\n\nMy Details:\nName: \nPhone: \nAddress: \n';
+
+    window.location.href =
+      'mailto:' + ORDER_EMAIL +
+      '?subject=' + encodeURIComponent(subject) +
+      '&body=' + encodeURIComponent(bodyText);
   }
 
   // ------------------------------------------------------------
@@ -1350,23 +1381,59 @@
   }
 
   // ------------------------------------------------------------
-  // Search: route the Dawn /search form to the static search page
+  // Global capture-phase submit handler.
+  // Fires before Dawn's target-phase handlers and stops all
+  // Shopify runtime calls (/cart/add, /cart/change, /search/suggest).
   // ------------------------------------------------------------
-  function setupSearchForms() {
-    var prefix = '';
-    if (window.location.pathname.split('/').filter(Boolean).length > 1) {
-      prefix = '../';
-    }
+  function setupGlobalSubmitHandler() {
     document.addEventListener('submit', function (e) {
       var form = e.target;
       if (!form || form.tagName !== 'FORM') return;
       var action = form.getAttribute('action') || '';
-      if (action.indexOf('/search') !== 0) return;
-      e.preventDefault();
-      e.stopImmediatePropagation();
-      var input = form.querySelector('input[name="q"]');
-      var q = (input && input.value || '').trim();
-      window.location.href = prefix + 'search.html?q=' + encodeURIComponent(q);
+
+      if (action.indexOf('/search') === 0) {
+        e.preventDefault();
+        e.stopImmediatePropagation();
+        var prefix = window.location.pathname.split('/').filter(Boolean).length > 1 ? '../' : '';
+        var input = form.querySelector('input[name="q"]');
+        var q = (input && input.value || '').trim();
+        window.location.href = prefix + 'search.html?q=' + encodeURIComponent(q);
+        return;
+      }
+
+      if (action.indexOf('/cart/add') === 0) {
+        e.preventDefault();
+        e.stopImmediatePropagation();
+        if (form.dataset.cmAvailability === '1') {
+          handleAvailability(form);
+        } else {
+          handleCartAdd(form);
+        }
+        return;
+      }
+
+      if (action.indexOf('localization') !== -1) {
+        e.preventDefault();
+        e.stopImmediatePropagation();
+        return;
+      }
+
+      if (action.indexOf('contact') === 0) {
+        e.preventDefault();
+        e.stopImmediatePropagation();
+        handleContact(form);
+      }
+    }, true);
+  }
+
+  // Block the predictive-search component's fetches to /search/suggest
+  function setupPredictiveBlock() {
+    document.addEventListener('input', function (e) {
+      var el = e.target;
+      if (!el || !el.matches) return;
+      if (el.matches('predictive-search input, .search__input')) {
+        e.stopImmediatePropagation();
+      }
     }, true);
   }
 
@@ -1463,8 +1530,9 @@
     updateCartCount();
     renderCart();
     setupAddToCartForms();
-    setupContactForms();
-    setupSearchForms();
+    setupGlobalSubmitHandler();
+    setupPredictiveBlock();
+    initAvailabilityCards();
     initScrollReveal();
     enhanceCartLink();
     initQuickView();
