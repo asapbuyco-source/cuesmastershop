@@ -860,6 +860,17 @@
       '.cm-pop-brand { color: rgba(255, 255, 255, 0.55); font-size: 1.05rem; letter-spacing: 0.22em; text-transform: uppercase; margin: 0 0 0.5rem; }',
       '.cm-pop-avail { color: #d49d37; font-weight: 600; font-size: 1.35rem; letter-spacing: 0.06em; text-transform: uppercase; margin: 0 0 1rem; }',
       '.cm-avail-label { color: #d49d37; font-weight: 600; font-size: 1.2rem; letter-spacing: 0.06em; text-transform: uppercase; }',
+      '.cm-order-overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.72); z-index: 9999; display: flex; align-items: center; justify-content: center; padding: 2rem; }',
+      '.cm-order-dialog { background: #121212; border: 1px solid #d49d37; border-radius: 10px; max-width: 640px; width: 100%; max-height: 85vh; overflow: auto; color: #fff; }',
+      '.cm-order-head { display: flex; align-items: center; justify-content: space-between; padding: 1.6rem 2rem; border-bottom: 1px solid rgba(212,157,55,0.35); }',
+      '.cm-order-title { margin: 0; font-size: 1.8rem; }',
+      '.cm-order-close { background: none; border: none; color: #fff; font-size: 2.6rem; line-height: 1; cursor: pointer; }',
+      '.cm-order-note { padding: 1.4rem 2rem 0; margin: 0; font-size: 1.35rem; color: rgba(255,255,255,0.75); }',
+      '.cm-order-body { padding: 1rem 2rem; }',
+      '.cm-order-body pre { white-space: pre-wrap; font-family: Consolas, monospace; font-size: 1.25rem; line-height: 1.5; background: #0a0a0a; border: 1px solid rgba(212,157,55,0.25); padding: 1.4rem; border-radius: 6px; margin: 0; max-height: 40vh; overflow: auto; }',
+      '.cm-order-actions { display: flex; gap: 1.2rem; padding: 0 2rem 2rem; flex-wrap: wrap; }',
+      '.cm-order-copy { background: transparent; color: #d49d37; border: 1px solid #d49d37; padding: 1.2rem 2rem; font-size: 1.4rem; cursor: pointer; border-radius: 6px; }',
+      'body.cm-modal-open { overflow: hidden; }',
       '@keyframes cm-card-in {',
       '  from { opacity: 0; transform: translateY(14px); }',
       '  to { opacity: 1; transform: none; }',
@@ -1161,11 +1172,93 @@
       orderText += 'Please let me know the next steps for payment and shipping.\n\n';
       orderText += 'My Details:\nName: \nPhone: \nAddress: \n';
 
-      window.location.href =
+      showOrderModal(orderText, totalItems);
+
+      var mailtoUrl =
         'mailto:' + ORDER_EMAIL +
         '?subject=' + encodeURIComponent('New Cart Order Request - ' + totalItems + ' item(s)') +
         '&body=' + encodeURIComponent(orderText);
+      try { window.location.href = mailtoUrl; } catch (err) { /* modal stays open as fallback */ }
     });
+  }
+
+  // ------------------------------------------------------------
+  // Order modal: always gives the buyer visible next steps, even
+  // when no desktop email app is configured for mailto links.
+  // ------------------------------------------------------------
+  function showOrderModal(orderText, totalItems) {
+    try {
+      var old = document.getElementById('cm-order-modal');
+      if (old && old.parentNode) old.parentNode.removeChild(old);
+
+      var subject = 'New Cart Order Request - ' + totalItems + ' item(s)';
+      var mailtoUrl = 'mailto:' + ORDER_EMAIL + '?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(orderText);
+
+      var overlay = document.createElement('div');
+      overlay.id = 'cm-order-modal';
+      overlay.className = 'cm-order-overlay';
+      overlay.innerHTML =
+        '<div class="cm-order-dialog" role="dialog" aria-modal="true" aria-label="Order ready to send">' +
+        '  <div class="cm-order-head">' +
+        '    <h2 class="cm-order-title">Your order is ready</h2>' +
+        '    <button type="button" class="cm-order-close" aria-label="Close">&times;</button>' +
+        '  </div>' +
+        '  <p class="cm-order-note">Click <strong>Open Email App</strong> to send this order to <strong>' + ORDER_EMAIL + '</strong>. If nothing opens, use <strong>Copy Order</strong> and paste it into your email.</p>' +
+        '  <div class="cm-order-body"><pre>' + escapeHtml(orderText) + '</pre></div>' +
+        '  <div class="cm-order-actions">' +
+        '    <button type="button" class="cm-order-send cm-gold-button">Open Email App</button>' +
+        '    <button type="button" class="cm-order-copy">Copy Order</button>' +
+        '  </div>' +
+        '</div>';
+
+      overlay.addEventListener('click', function (ev) {
+        if (ev.target === overlay) closeOrderModal(overlay);
+      });
+      var closeBtn = overlay.querySelector('.cm-order-close');
+      if (closeBtn) closeBtn.addEventListener('click', function () { closeOrderModal(overlay); });
+      var sendBtn = overlay.querySelector('.cm-order-send');
+      if (sendBtn) sendBtn.addEventListener('click', function () {
+        try { window.location.href = mailtoUrl; } catch (err) { /* stay on page */ }
+      });
+      var copyBtn = overlay.querySelector('.cm-order-copy');
+      if (copyBtn) copyBtn.addEventListener('click', function () { copyOrderText(orderText, copyBtn); });
+
+      if (document.body) document.body.appendChild(overlay);
+      if (document.body && document.body.classList) document.body.classList.add('cm-modal-open');
+    } catch (err) { /* modal is best-effort; mailto already attempted */ }
+  }
+
+  function closeOrderModal(overlay) {
+    if (overlay && overlay.parentNode) overlay.parentNode.removeChild(overlay);
+    if (document.body && document.body.classList) document.body.classList.remove('cm-modal-open');
+  }
+
+  function copyOrderText(text, btn) {
+    function markDone() {
+      if (!btn) return;
+      btn.textContent = '\u2713 Copied';
+      setTimeout(function () { btn.textContent = 'Copy Order'; }, 2000);
+    }
+    function legacy() {
+      try {
+        var ta = document.createElement('textarea');
+        ta.value = text;
+        ta.style.position = 'fixed';
+        ta.style.left = '-9999px';
+        document.body.appendChild(ta);
+        ta.select();
+        document.execCommand('copy');
+        document.body.removeChild(ta);
+        markDone();
+      } catch (e) { markDone(); }
+    }
+    try {
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(markDone, legacy);
+      } else {
+        legacy();
+      }
+    } catch (e) { legacy(); }
   }
 
   // ------------------------------------------------------------
