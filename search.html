@@ -1200,7 +1200,7 @@ var priceHtml;
             var usdText = '$' + usd.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
             priceHtml = '<p class="cm-pop-price" data-php-price="' + escapeHtml(p.php) + '">' + usdText + '</p>';
           } else {
-            priceHtml = '<p class="cm-pop-price cm-pop-avail">Check Availability</p>';
+            priceHtml = '<p class="cm-pop-price cm-pop-avail">Sold Out - Check Availability</p>';
           }
           return '<div class="cm-pop-card" style="animation-delay:' + (i * 60) + 'ms">' +
             '<a class="cm-pop-media" href="' + escapeHtml(p.url) + '">' + img + '</a>' +

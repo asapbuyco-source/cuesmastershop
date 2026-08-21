@@ -860,6 +860,7 @@
       '.cm-pop-brand { color: rgba(255, 255, 255, 0.55); font-size: 1.05rem; letter-spacing: 0.22em; text-transform: uppercase; margin: 0 0 0.5rem; }',
       '.cm-pop-avail { color: #d49d37; font-weight: 600; font-size: 1.35rem; letter-spacing: 0.06em; text-transform: uppercase; margin: 0 0 1rem; }',
       '.cm-avail-label { color: #d49d37; font-weight: 600; font-size: 1.2rem; letter-spacing: 0.06em; text-transform: uppercase; }',
+      '.cm-sold-out-badge { display: inline-block; margin: 1.2rem 0 0.5rem; padding: 0.5rem 1.4rem; border: 1px solid #d49d37; color: #d49d37; font-size: 1.2rem; letter-spacing: 0.25em; text-transform: uppercase; }',
       '.cm-order-overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.72); z-index: 9999; display: flex; align-items: center; justify-content: center; padding: 2rem; }',
       '.cm-order-dialog { background: #121212; border: 1px solid #d49d37; border-radius: 10px; max-width: 640px; width: 100%; max-height: 85vh; overflow: auto; color: #fff; }',
       '.cm-order-head { display: flex; align-items: center; justify-content: space-between; padding: 1.6rem 2rem; border-bottom: 1px solid rgba(212,157,55,0.35); }',
@@ -1392,7 +1393,7 @@
   // ------------------------------------------------------------
   // "Check Availability" products: hide prices on collection cards
   // ------------------------------------------------------------
-  var AVAILABILITY_SLUGS = ['predator-10k-pool-cue', 'predator-9k-pool-cue', 'predator-bk-rush-break-cue'];
+  var AVAILABILITY_SLUGS = ['predator-10k-pool-cue', 'predator-9k-pool-cue', 'predator-bk-rush-break-cue', 'cuetec-cynergy-svb-gen-ii', 'mezz-ace-pool-cue'];
 
   function initAvailabilityCards() {
     document.querySelectorAll('.card-wrapper, .product-card-wrapper').forEach(function (card) {
@@ -1403,7 +1404,7 @@
       if (!isAvail) return;
       var priceEl = card.querySelector('.card__price, .price, [data-php-price]');
       if (priceEl) {
-        priceEl.innerHTML = '<span class="cm-avail-label">Check Availability</span>';
+        priceEl.innerHTML = '<span class="cm-avail-label">Sold Out - Check Availability</span>';
       }
       card.querySelectorAll('.badge').forEach(function (b) { b.style.display = 'none'; });
     });
