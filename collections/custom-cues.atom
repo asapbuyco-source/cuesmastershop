@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
-  <id>https://cuesmastershop.com/collections/all.atom</id>
-  <link rel="alternate" type="text/html" href="https://cuesmastershop.com/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="https://cuesmastershop.com/collections/custom-cues.atom"/>
+  <id>https://www.elitecue.shop/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.elitecue.shop/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.elitecue.shop/collections/custom-cues.atom"/>
   <title>Cues Master Shop</title>
   <updated>2026-08-14T09:39:40+08:00</updated>
   <author>
     <name>Cues Master Shop</name>
   </author>
   <entry>
-    <id>https://cuesmastershop.com/products/8040995815472</id>
+    <id>https://www.elitecue.shop/products/8040995815472</id>
     <published>2026-08-14T09:39:40+08:00</published>
     <updated>2026-08-14T09:39:40+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/untitled-aug6_03-12-08"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/untitled-aug6_03-12-08"/>
     <title>Northern Ember – Handcrafted Custom Pool Cue | Cues Master</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -65,7 +65,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8040995815472</id>
+      <id>https://www.elitecue.shop/products/8040995815472</id>
       <title>Default Title</title>
       <s:price currency="PHP">20000.00</s:price>
       <s:sku/>
@@ -73,10 +73,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://cuesmastershop.com/products/8048315269168</id>
+    <id>https://www.elitecue.shop/products/8048315269168</id>
     <published>2026-08-14T09:39:06+08:00</published>
     <updated>2026-08-14T09:39:06+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/arctic-abyss-handcrafted-custom-pool-cue-cues-master"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/arctic-abyss-handcrafted-custom-pool-cue-cues-master"/>
     <title>Arctic Abyss – Handcrafted Custom Pool Cue | Cues Master</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -129,7 +129,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8048315269168</id>
+      <id>https://www.elitecue.shop/products/8048315269168</id>
       <title>Default Title</title>
       <s:price currency="PHP">18000.00</s:price>
       <s:sku/>
@@ -137,10 +137,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://cuesmastershop.com/products/8048320512048</id>
+    <id>https://www.elitecue.shop/products/8048320512048</id>
     <published>2026-08-14T09:38:36+08:00</published>
     <updated>2026-08-14T09:38:36+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/dragon-s-shadow-handcrafted-custom-pool-cue-cues-master"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/dragon-s-shadow-handcrafted-custom-pool-cue-cues-master"/>
     <title>Dragon’s Shadow – Handcrafted Custom Pool Cue | Cues Master</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -196,7 +196,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8048320512048</id>
+      <id>https://www.elitecue.shop/products/8048320512048</id>
       <title>Default Title</title>
       <s:price currency="PHP">35000.00</s:price>
       <s:sku/>
@@ -204,10 +204,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://cuesmastershop.com/products/8048331587632</id>
+    <id>https://www.elitecue.shop/products/8048331587632</id>
     <published>2026-08-14T09:38:03+08:00</published>
     <updated>2026-08-14T09:38:03+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/emerald-frost-handcrafted-custom-pool-cue-cues-master"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/emerald-frost-handcrafted-custom-pool-cue-cues-master"/>
     <title>Emerald Frost – Handcrafted Custom Pool Cue | Cues Master</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -272,7 +272,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8048331587632</id>
+      <id>https://www.elitecue.shop/products/8048331587632</id>
       <title>Default Title</title>
       <s:price currency="PHP">28000.00</s:price>
       <s:sku/>
@@ -280,10 +280,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://cuesmastershop.com/products/8048335650864</id>
+    <id>https://www.elitecue.shop/products/8048335650864</id>
     <published>2026-08-14T09:37:32+08:00</published>
     <updated>2026-08-14T09:37:32+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/emerald-sovereign-handcrafted-custom-pool-cue-cues-master"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/emerald-sovereign-handcrafted-custom-pool-cue-cues-master"/>
     <title>Emerald Sovereign – Handcrafted Custom Pool Cue | Cues Master</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -333,7 +333,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8048335650864</id>
+      <id>https://www.elitecue.shop/products/8048335650864</id>
       <title>Default Title</title>
       <s:price currency="PHP">18000.00</s:price>
       <s:sku/>
@@ -341,10 +341,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://cuesmastershop.com/products/8048340697136</id>
+    <id>https://www.elitecue.shop/products/8048340697136</id>
     <published>2026-08-14T09:37:05+08:00</published>
     <updated>2026-08-14T09:37:05+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/obsidian-crown-handcrafted-custom-pool-cue-cues-master"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/obsidian-crown-handcrafted-custom-pool-cue-cues-master"/>
     <title>Obsidian Crown – Handcrafted Custom Pool Cue | Cues Master</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -398,7 +398,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8048340697136</id>
+      <id>https://www.elitecue.shop/products/8048340697136</id>
       <title>Default Title</title>
       <s:price currency="PHP">25000.00</s:price>
       <s:sku/>
@@ -406,10 +406,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://cuesmastershop.com/products/8048399351856</id>
+    <id>https://www.elitecue.shop/products/8048399351856</id>
     <published>2026-08-14T09:36:11+08:00</published>
     <updated>2026-08-14T09:36:11+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/imperial-geometry-handcrafted-custom-pool-cue-cues-master"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/imperial-geometry-handcrafted-custom-pool-cue-cues-master"/>
     <title>Imperial Geometry – Handcrafted Custom Pool Cue | Cues Master</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -463,7 +463,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8048399351856</id>
+      <id>https://www.elitecue.shop/products/8048399351856</id>
       <title>Default Title</title>
       <s:price currency="PHP">25000.00</s:price>
       <s:sku/>
@@ -471,10 +471,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://cuesmastershop.com/products/8048412852272</id>
+    <id>https://www.elitecue.shop/products/8048412852272</id>
     <published>2026-08-14T09:35:44+08:00</published>
     <updated>2026-08-14T09:35:44+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/sapphire-noir-handcrafted-custom-pool-cue-cues-master"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/sapphire-noir-handcrafted-custom-pool-cue-cues-master"/>
     <title>Sapphire Noir – Handcrafted Custom Pool Cue | Cues Master</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -531,7 +531,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8048412852272</id>
+      <id>https://www.elitecue.shop/products/8048412852272</id>
       <title>Default Title</title>
       <s:price currency="PHP">18000.00</s:price>
       <s:sku/>
@@ -539,10 +539,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://cuesmastershop.com/products/8048419274800</id>
+    <id>https://www.elitecue.shop/products/8048419274800</id>
     <published>2026-08-14T09:34:58+08:00</published>
     <updated>2026-08-14T09:34:58+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/royal-ember-handcrafted-custom-pool-cue-cues-master"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/royal-ember-handcrafted-custom-pool-cue-cues-master"/>
     <title>Royal Ember – Handcrafted Custom Pool Cue | Cues Master</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -596,7 +596,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8048419274800</id>
+      <id>https://www.elitecue.shop/products/8048419274800</id>
       <title>Default Title</title>
       <s:price currency="PHP">25000.00</s:price>
       <s:sku/>
@@ -604,10 +604,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://cuesmastershop.com/products/8048424910896</id>
+    <id>https://www.elitecue.shop/products/8048424910896</id>
     <published>2026-08-14T09:34:10+08:00</published>
     <updated>2026-08-14T09:34:10+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/white-eclipse-handcrafted-custom-pool-cue-cues-master"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/white-eclipse-handcrafted-custom-pool-cue-cues-master"/>
     <title>White Eclipse – Handcrafted Custom Pool Cue | Cues Master</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -661,7 +661,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8048424910896</id>
+      <id>https://www.elitecue.shop/products/8048424910896</id>
       <title>Default Title</title>
       <s:price currency="PHP">27000.00</s:price>
       <s:sku/>
@@ -669,10 +669,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://cuesmastershop.com/products/8048429432880</id>
+    <id>https://www.elitecue.shop/products/8048429432880</id>
     <published>2026-08-14T09:33:18+08:00</published>
     <updated>2026-08-14T09:33:18+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/aaa"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/aaa"/>
     <title>Scarlet Regent – Handcrafted Custom Pool Cue | Cues Master</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -726,7 +726,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8048429432880</id>
+      <id>https://www.elitecue.shop/products/8048429432880</id>
       <title>Default Title</title>
       <s:price currency="PHP">23000.00</s:price>
       <s:sku/>
@@ -734,10 +734,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://cuesmastershop.com/products/8037561499696</id>
+    <id>https://www.elitecue.shop/products/8037561499696</id>
     <published>2026-08-02T17:50:39+08:00</published>
     <updated>2026-08-02T17:50:39+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/royal-eclipse-handcrafted-custom-pool-cue-butt"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/royal-eclipse-handcrafted-custom-pool-cue-butt"/>
     <title>Maple x Spalted Tamarind 12 pointer (Butt only)</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -792,7 +792,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8037561499696</id>
+      <id>https://www.elitecue.shop/products/8037561499696</id>
       <title>Default Title</title>
       <s:price currency="PHP">20000.00</s:price>
       <s:sku/>
@@ -800,10 +800,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://cuesmastershop.com/products/8037562974256</id>
+    <id>https://www.elitecue.shop/products/8037562974256</id>
     <published>2026-08-02T17:50:03+08:00</published>
     <updated>2026-08-02T17:50:03+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/celestial-blade"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/celestial-blade"/>
     <title>Ebony wood x Celestial Blade (Butt only)</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -851,7 +851,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8037562974256</id>
+      <id>https://www.elitecue.shop/products/8037562974256</id>
       <title>Default Title</title>
       <s:price currency="PHP">42000.00</s:price>
       <s:sku/>
@@ -859,10 +859,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://cuesmastershop.com/products/8037564678192</id>
+    <id>https://www.elitecue.shop/products/8037564678192</id>
     <published>2026-08-02T17:49:04+08:00</published>
     <updated>2026-08-02T17:49:04+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/imperial-heritage-handcrafted-custom-pool-cue-butt-cues-master"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/imperial-heritage-handcrafted-custom-pool-cue-butt-cues-master"/>
     <title>Maple x Spalted Tamarind x Resin (Butt only)</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -935,7 +935,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8037564678192</id>
+      <id>https://www.elitecue.shop/products/8037564678192</id>
       <title>Default Title</title>
       <s:price currency="PHP">23000.00</s:price>
       <s:sku/>
@@ -943,10 +943,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://cuesmastershop.com/products/8037575589936</id>
+    <id>https://www.elitecue.shop/products/8037575589936</id>
     <published>2026-08-02T17:47:48+08:00</published>
     <updated>2026-08-02T17:47:48+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/midnight-ember-handcrafted-custom-pool-cue-butt-cues-master"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/midnight-ember-handcrafted-custom-pool-cue-butt-cues-master"/>
     <title>Maple x Resin Midnight Ember (Butt only)</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -1017,7 +1017,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8037575589936</id>
+      <id>https://www.elitecue.shop/products/8037575589936</id>
       <title>Default Title</title>
       <s:price currency="PHP">24000.00</s:price>
       <s:sku/>
@@ -1025,10 +1025,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://cuesmastershop.com/products/8037583224880</id>
+    <id>https://www.elitecue.shop/products/8037583224880</id>
     <published>2026-08-02T17:46:57+08:00</published>
     <updated>2026-08-02T17:46:57+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/butterfly-handcrafted-custom-pool-cue-butt-cues-master"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/butterfly-handcrafted-custom-pool-cue-butt-cues-master"/>
     <title>Butterfly Maple x Resin (Butt only)</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -1076,7 +1076,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8037583224880</id>
+      <id>https://www.elitecue.shop/products/8037583224880</id>
       <title>Default Title</title>
       <s:price currency="PHP">24000.00</s:price>
       <s:sku/>
@@ -1084,10 +1084,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://cuesmastershop.com/products/8037585518640</id>
+    <id>https://www.elitecue.shop/products/8037585518640</id>
     <published>2026-08-02T17:46:31+08:00</published>
     <updated>2026-08-02T17:46:31+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/emerald-fusion-handcrafted-custom-pool-cue-butt-cues-master"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/emerald-fusion-handcrafted-custom-pool-cue-butt-cues-master"/>
     <title>Butterfly x Maple x Resin (Butt only)</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -1133,7 +1133,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8037585518640</id>
+      <id>https://www.elitecue.shop/products/8037585518640</id>
       <title>Default Title</title>
       <s:price currency="PHP">24000.00</s:price>
       <s:sku/>
@@ -1141,10 +1141,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://cuesmastershop.com/products/8037588467760</id>
+    <id>https://www.elitecue.shop/products/8037588467760</id>
     <published>2026-08-02T17:45:59+08:00</published>
     <updated>2026-08-02T17:45:59+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/crimson-elegance-handcrafted-custom-pool-cue-butt-cues-master"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/crimson-elegance-handcrafted-custom-pool-cue-butt-cues-master"/>
     <title>Maple x Crimson Resin (Butt only)</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -1188,7 +1188,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8037588467760</id>
+      <id>https://www.elitecue.shop/products/8037588467760</id>
       <title>Default Title</title>
       <s:price currency="PHP">17000.00</s:price>
       <s:sku/>
@@ -1196,10 +1196,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://cuesmastershop.com/products/8037589352496</id>
+    <id>https://www.elitecue.shop/products/8037589352496</id>
     <published>2026-08-02T17:45:26+08:00</published>
     <updated>2026-08-02T17:45:26+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/amethyst-royale-handcrafted-custom-pool-cue-butt-cues-master"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/amethyst-royale-handcrafted-custom-pool-cue-butt-cues-master"/>
     <title>Ebony wood x Resin (Butt only)</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -1245,7 +1245,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8037589352496</id>
+      <id>https://www.elitecue.shop/products/8037589352496</id>
       <title>Default Title</title>
       <s:price currency="PHP">23000.00</s:price>
       <s:sku/>
@@ -1253,10 +1253,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://cuesmastershop.com/products/8037590073392</id>
+    <id>https://www.elitecue.shop/products/8037590073392</id>
     <published>2026-08-02T17:44:26+08:00</published>
     <updated>2026-08-02T17:44:26+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/ember-reserve-handcrafted-custom-pool-cue-butt-cues-master"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/ember-reserve-handcrafted-custom-pool-cue-butt-cues-master"/>
     <title>Burl wood points x Resin (Butt only)</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -1302,7 +1302,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8037590073392</id>
+      <id>https://www.elitecue.shop/products/8037590073392</id>
       <title>Default Title</title>
       <s:price currency="PHP">17000.00</s:price>
       <s:sku/>
@@ -1310,10 +1310,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://cuesmastershop.com/products/8037590368304</id>
+    <id>https://www.elitecue.shop/products/8037590368304</id>
     <published>2026-08-02T17:43:28+08:00</published>
     <updated>2026-08-02T17:43:28+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/maple-crest-handcrafted-custom-pool-cue-butt-cues-master"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/maple-crest-handcrafted-custom-pool-cue-butt-cues-master"/>
     <title>Maple x Rosewood (Butt only)</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -1357,7 +1357,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8037590368304</id>
+      <id>https://www.elitecue.shop/products/8037590368304</id>
       <title>Default Title</title>
       <s:price currency="PHP">15000.00</s:price>
       <s:sku/>
@@ -1365,10 +1365,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://cuesmastershop.com/products/8037591121968</id>
+    <id>https://www.elitecue.shop/products/8037591121968</id>
     <published>2026-08-02T17:41:55+08:00</published>
     <updated>2026-08-02T17:41:55+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/imperial-dragon-handcrafted-custom-pool-cue-cues-master"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/imperial-dragon-handcrafted-custom-pool-cue-cues-master"/>
     <title>Dragon – X001</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -1418,7 +1418,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8037591121968</id>
+      <id>https://www.elitecue.shop/products/8037591121968</id>
       <title>Default Title</title>
       <s:price currency="PHP">45000.00</s:price>
       <s:sku/>
@@ -1426,10 +1426,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://cuesmastershop.com/products/8037551833136</id>
+    <id>https://www.elitecue.shop/products/8037551833136</id>
     <published>2026-08-02T17:40:30+08:00</published>
     <updated>2026-08-02T17:40:30+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/crimson-legacy-handcrafted-custom-pool-cue-butt-cues-master"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/crimson-legacy-handcrafted-custom-pool-cue-butt-cues-master"/>
     <title>Maple x Ebony Wood Points (Butt only)</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -1481,7 +1481,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8037551833136</id>
+      <id>https://www.elitecue.shop/products/8037551833136</id>
       <title>Default Title</title>
       <s:price currency="PHP">15000.00</s:price>
       <s:sku/>
@@ -1489,10 +1489,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://cuesmastershop.com/products/8036781588528</id>
+    <id>https://www.elitecue.shop/products/8036781588528</id>
     <published>2026-08-01T15:11:45+08:00</published>
     <updated>2026-08-01T15:11:45+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/spalted-tamarind-cue"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/spalted-tamarind-cue"/>
     <title>Spalted Tamarind X Maple (Butt only)</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -1535,7 +1535,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8036781588528</id>
+      <id>https://www.elitecue.shop/products/8036781588528</id>
       <title>Default Title</title>
       <s:price currency="PHP">30000.00</s:price>
       <s:sku/>
@@ -1543,10 +1543,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://cuesmastershop.com/products/8036124819504</id>
+    <id>https://www.elitecue.shop/products/8036124819504</id>
     <published>2026-07-31T17:00:02+08:00</published>
     <updated>2026-07-31T17:00:02+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/cues-master-custom-cue-butterfly-design"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/cues-master-custom-cue-butterfly-design"/>
     <title>Cues Master Custom Cue – Butterfly Design</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -1589,7 +1589,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8036124819504</id>
+      <id>https://www.elitecue.shop/products/8036124819504</id>
       <title>Default Title</title>
       <s:price currency="PHP">18000.00</s:price>
       <s:sku/>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
-  <id>https://cuesmastershop.com/collections/all.atom</id>
-  <link rel="alternate" type="text/html" href="https://cuesmastershop.com/collections/all"/>
-  <link rel="self" type="application/atom+xml" href="https://cuesmastershop.com/collections/exotic-woods.atom"/>
+  <id>https://www.elitecue.shop/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.elitecue.shop/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.elitecue.shop/collections/exotic-woods.atom"/>
   <title>Cues Master Shop</title>
   <updated>2026-08-01T15:11:45+08:00</updated>
   <author>
     <name>Cues Master Shop</name>
   </author>
   <entry>
-    <id>https://cuesmastershop.com/products/8036781588528</id>
+    <id>https://www.elitecue.shop/products/8036781588528</id>
     <published>2026-08-01T15:11:45+08:00</published>
     <updated>2026-08-01T15:11:45+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/spalted-tamarind-cue"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/spalted-tamarind-cue"/>
     <title>Spalted Tamarind X Maple (Butt only)</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -55,7 +55,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8036781588528</id>
+      <id>https://www.elitecue.shop/products/8036781588528</id>
       <title>Default Title</title>
       <s:price currency="PHP">30000.00</s:price>
       <s:sku/>
@@ -63,10 +63,10 @@
     </s:variant>
   </entry>
   <entry>
-    <id>https://cuesmastershop.com/products/8035651813424</id>
+    <id>https://www.elitecue.shop/products/8035651813424</id>
     <published>2026-07-30T20:38:44+08:00</published>
     <updated>2026-07-30T20:38:44+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://cuesmastershop.com/products/tri-cut-spalted-tamarind-custom-cue-with-torrefied-maple-shaft"/>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/tri-cut-spalted-tamarind-custom-cue-with-torrefied-maple-shaft"/>
     <title>Tri-Cut Spalted Tamarind Custom Cue with Torrefied Maple Shaft</title>
     <s:type></s:type>
     <s:vendor>Cues Master Shop</s:vendor>
@@ -130,7 +130,7 @@
 ]]>
     </summary>
     <s:variant>
-      <id>https://cuesmastershop.com/products/8035651813424</id>
+      <id>https://www.elitecue.shop/products/8035651813424</id>
       <title>Default Title</title>
       <s:price currency="PHP">45000.00</s:price>
       <s:sku/>
