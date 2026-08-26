@@ -3,806 +3,20 @@
   <id>https://www.elitecue.shop/collections/all.atom</id>
   <link rel="alternate" type="text/html" href="https://www.elitecue.shop/collections/all"/>
   <link rel="self" type="application/atom+xml" href="https://www.elitecue.shop/collections/all.atom"/>
-  <title>Cues Master Shop</title>
+  <title>Elite Cue</title>
   <updated>2026-08-18T10:28:42+08:00</updated>
   <author>
-    <name>Cues Master Shop</name>
+    <name>Elite Cue</name>
   </author>
-  <entry>
-    <id>https://www.elitecue.shop/products/8049482170416</id>
-    <published>2026-08-18T10:28:42+08:00</published>
-    <updated>2026-08-18T10:28:42+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/caiden-gloves"/>
-    <title>Caiden Gloves</title>
-    <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
-    <summary type="html">
-      <![CDATA[<table border="0">
-  <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/c895c7a9-de2d-4804-85cc-0f38c950215d.png?v=1786679524"></td>
-    <td valign="bottom">
-      <p>
-
-        <strong>Vendor: </strong>Cues Master Shop<br>
-        <strong>Type: </strong><br>
-        <strong>Price: </strong>
-            2200.00
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2"><p class="isSelectedEnd"><span>The </span><strong><span>Caiden Gloves</span></strong><span> are high-performance billiard gloves designed to provide smooth cue movement, comfortable hand positioning, and consistent bridge-hand control. Built with performance fabrics and ergonomic construction, Caiden offers multiple glove designs to match the individual preferences and playing styles of today's players.</span></p>
-<p class="isSelectedEnd"><span>The gloves feature </span><strong><span>Ultra Slick Fabric</span></strong><span> for a smooth, low-friction surface, while </span><strong><span>Hyper Cool technology</span></strong><span> helps maintain comfort during extended sessions. Each model offers a different balance of coverage, ventilation, and direct hand contact, allowing players to choose the feel that best complements their stroke.</span></p>
-<h3><span>Features</span></h3>
-<ul>
-<li>
-<strong><span>Ultra Slick Fabric</span></strong><span> for smooth cue movement</span>
-</li>
-<li>
-<strong><span>Hyper Cool technology</span></strong><span> for enhanced cooling and comfort</span>
-</li>
-<li><span>Ergonomic, close-fitting construction</span></li>
-<li><span>Lightweight and flexible design</span></li>
-<li><span>Designed to reduce friction between the bridge hand and cue shaft</span></li>
-<li><span>Anti-slip palm features for added stability</span></li>
-<li><span>Available in different finger configurations</span></li>
-<li><span>Designed for consistent bridge-hand movement and stroke control</span></li>
-</ul>
-<h3><span>Available Models</span></h3>
-<p class="isSelectedEnd"><strong><span>Classic</span></strong><span> — Full-finger design with an anti-slip silicone logo on the palm. Ideal for players who prefer maximum coverage and a smooth, traditional glove feel.</span></p>
-<p class="isSelectedEnd"><strong><span>Comfort</span></strong><span> — Hybrid open-finger design with the thumb and index finger covered while the middle finger remains open. Features thinner fabric, ProCool Mesh, and a non-slip suede palm pad for improved ventilation and enhanced feel.</span></p>
-<p class="isSelectedEnd"><strong><span>Contact</span></strong><span> — Open-finger design with all fingers exposed, providing maximum finger freedom and a more direct connection with the cue.</span></p>
-<h3><span>Performance</span></h3>
-<ul>
-<li>
-<strong><span>Ultra Slick Feel</span></strong><span> — Promotes smooth and effortless cue movement</span>
-</li>
-<li>
-<strong><span>Hyper Cool Comfort</span></strong><span> — Helps maintain comfort during extended playing sessions</span>
-</li>
-<li>
-<strong><span>Ergonomic Fit</span></strong><span> — Follows the natural movement of the hand</span>
-</li>
-<li>
-<strong><span>Flexible Options</span></strong><span> — Multiple designs allow players to choose their preferred level of coverage and hand contact</span>
-</li>
-<li>
-<strong><span>Stable Bridge</span></strong><span> — Anti-slip palm features provide additional stability during the stroke</span>
-</li>
-</ul>
-<h3><span>Perfect For</span></h3>
-<p class="isSelectedEnd"><span>Players looking for a performance-oriented billiard glove that combines </span><strong><span>smooth cue movement, cooling comfort, flexibility, and reliable bridge-hand control</span></strong><span>, with Classic, Comfort, and Contact designs to suit different playing preferences.</span></p>
-<p><strong><span>Smooth movement. Cool comfort. Total control. Caiden Gloves are built to keep your stroke effortless.</span></strong><span> 🎱</span></p></td>
-  </tr>
-</table>
-]]>
-    </summary>
-    <s:variant>
-      <id>https://www.elitecue.shop/products/8049482170416</id>
-      <title>Default Title</title>
-      <s:price currency="PHP">2200.00</s:price>
-      <s:sku/>
-      <s:grams>100</s:grams>
-    </s:variant>
-  </entry>
-  <entry>
-    <id>https://www.elitecue.shop/products/8049479680048</id>
-    <published>2026-08-18T10:28:01+08:00</published>
-    <updated>2026-08-18T10:28:01+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/how-gloves"/>
-    <title>HOW Gloves</title>
-    <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
-    <summary type="html">
-      <![CDATA[<table border="0">
-  <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/7ade883a-d639-4c09-b29e-305b9ffe56a1.png?v=1786678581"></td>
-    <td valign="bottom">
-      <p>
-
-        <strong>Vendor: </strong>Cues Master Shop<br>
-        <strong>Type: </strong><br>
-        <strong>Price: </strong>
-            1700.00
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2"><p class="isSelectedEnd"><span>The </span><strong><span>HOW Gloves</span></strong><span> are designed for players who demand a smooth, consistent stroke with unrestricted hand movement. Built with a lightweight and flexible construction, these billiard gloves create a low-friction surface between the bridge hand and cue shaft, allowing the cue to glide smoothly through the fingers for greater stroke consistency and control.</span></p>
-<p class="isSelectedEnd"><span>The back of the glove features </span><strong><span>high-stretch Lycra</span></strong><span>, providing flexibility and breathability for comfortable play during extended sessions. A </span><strong><span>reinforced anti-slip palm</span></strong><span> adds stability and durability, helping maintain a secure bridge position while allowing natural movement throughout the stroke.</span></p>
-<h3><span>Features</span></h3>
-<ul>
-<li>
-<span>High-stretch </span><strong><span>Lycra back</span></strong><span> for flexibility and breathability</span>
-</li>
-<li>
-<span>Reinforced </span><strong><span>anti-slip palm</span></strong><span> for added stability</span>
-</li>
-<li><span>Lightweight construction for comfortable extended play</span></li>
-<li><span>Close, comfortable fit without restricting hand movement</span></li>
-<li><span>Smooth surface designed to reduce friction against the cue shaft</span></li>
-<li><span>Helps promote a smoother and more consistent stroke</span></li>
-<li>
-<span>Available for </span><strong><span>left and right hands</span></strong>
-</li>
-<li>
-<span>Available in </span><strong><span>XS, S/M, L/XL, and 2XL</span></strong>
-</li>
-<li><span>Available in multiple colors</span></li>
-</ul>
-<h3><span>Available Colors</span></h3>
-<p class="isSelectedEnd"><strong><span>Army Green, Black, Deep Pink, Dream Purple, Grey, Lemon Yellow, Mint Blue, Navy Blue, Peacock Blue, Rose Pink, Sakura Pink, and Wine Red</span></strong></p>
-<h3><span>Perfect For</span></h3>
-<p class="isSelectedEnd"><span>Players looking for a lightweight, breathable, and flexible billiard glove that provides </span><strong><span>smooth cue movement, a stable bridge, and consistent performance</span></strong><span> from practice sessions to competitive play.</span></p>
-<p><strong><span>Smooth movement. Secure control. Consistent strokes. HOW Gloves are made to keep your game flowing.</span></strong><span> 🎱</span></p></td>
-  </tr>
-</table>
-]]>
-    </summary>
-    <s:variant>
-      <id>https://www.elitecue.shop/products/8049479680048</id>
-      <title>Default Title</title>
-      <s:price currency="PHP">1700.00</s:price>
-      <s:sku/>
-      <s:grams>100</s:grams>
-    </s:variant>
-  </entry>
-  <entry>
-    <id>https://www.elitecue.shop/products/8049512153136</id>
-    <published>2026-08-18T10:27:19+08:00</published>
-    <updated>2026-08-18T10:27:19+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/predator-second-skin-glove"/>
-    <title>Predator Second Skin Glove</title>
-    <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
-    <summary type="html">
-      <![CDATA[<table border="0">
-  <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/f91eca77-df9c-407b-8c7b-63ef3538f120.png?v=1786685040"></td>
-    <td valign="bottom">
-      <p>
-
-        <strong>Vendor: </strong>Cues Master Shop<br>
-        <strong>Type: </strong><br>
-        <strong>Price: </strong>
-            2600.00
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2"><p class="isSelectedEnd"><span>The </span><strong><span>Predator Second Skin Glove</span></strong><span> is a high-performance billiard glove engineered for players who demand an exceptionally smooth cue glide and a close, natural fit. Its </span><strong><span>Second-Skin low-friction surface</span></strong><span> minimizes drag between the bridge hand and cue shaft, helping players achieve a smoother, more consistent stroke with greater control.</span></p>
-<p class="isSelectedEnd"><span>Constructed with </span><strong><span>Ultra-Dry breathable mesh and Lycra</span></strong><span>, the glove combines flexibility, ventilation, and comfort for extended playing sessions. The </span><strong><span>non-slip thumb heel pad</span></strong><span> provides additional stability around the bridge hand, while double-stitched construction and an </span><strong><span>Elastic-Velcro closure</span></strong><span> help deliver durability and a secure, comfortable fit.</span></p>
-<h3><span>Features</span></h3>
-<ul>
-<li>
-<strong><span>Second-Skin low-friction surface</span></strong><span> for smooth cue movement</span>
-</li>
-<li>
-<strong><span>Ultra-Dry breathable mesh and Lycra</span></strong><span> construction</span>
-</li>
-<li><span>Close-fitting, flexible second-skin feel</span></li>
-<li>
-<strong><span>Non-slip thumb heel pad</span></strong><span> for added stability</span>
-</li>
-<li><span>Double-stitched construction for improved durability</span></li>
-<li>
-<strong><span>Elastic-Velcro closure</span></strong><span> for a secure and comfortable fit</span>
-</li>
-<li><span>Designed to reduce friction between the bridge hand and cue shaft</span></li>
-<li><span>Available in different finger configurations</span></li>
-<li>
-<span>Available for </span><strong><span>left and right hands</span></strong>
-</li>
-<li>
-<span>Available in </span><strong><span>XXS, S/M, L/XL, and XXL</span></strong>
-</li>
-</ul>
-<h3><span>Available Configurations</span></h3>
-<p class="isSelectedEnd"><strong><span>Fingerless / Open-Fingertip</span></strong><span> — Provides greater fingertip freedom and direct hand contact while maintaining the smooth Second Skin feel.</span></p>
-<p class="isSelectedEnd"><strong><span>Closed-Thumb</span></strong><span> — Offers additional thumb coverage while preserving flexibility and low-friction cue movement.</span></p>
-<p class="isSelectedEnd"><strong><span>Closed-Finger</span></strong><span> — Provides full finger coverage for players who prefer maximum glove coverage and protection.</span></p>
-<h3><span>Performance</span></h3>
-<ul>
-<li>
-<strong><span>Second-Skin Glide</span></strong><span> — Low-friction surface allows the cue shaft to move smoothly through the bridge hand.</span>
-</li>
-<li>
-<strong><span>Ultra-Dry Comfort</span></strong><span> — Breathable mesh helps keep the hand comfortable during extended play.</span>
-</li>
-<li>
-<strong><span>Stable Bridge</span></strong><span> — Non-slip thumb heel pad provides additional control and stability.</span>
-</li>
-<li>
-<strong><span>Flexible Fit</span></strong><span> — Lycra construction allows natural hand movement without feeling restrictive.</span>
-</li>
-<li>
-<strong><span>Secure Fit</span></strong><span> — Elastic-Velcro closure helps keep the glove comfortably positioned during play.</span>
-</li>
-<li>
-<strong><span>Built to Last</span></strong><span> — Double-stitched construction reinforces areas exposed to repeated movement.</span>
-</li>
-</ul>
-<h3><span>Perfect For</span></h3>
-<p class="isSelectedEnd"><span>Players looking for a high-performance billiard glove that delivers </span><strong><span>smooth cue movement, low friction, breathability, flexibility, and consistent bridge-hand control</span></strong><span> from everyday practice to competitive play.</span></p>
-<p><strong><span>Second-skin comfort. Ultra-smooth glide. Total control. Predator Second Skin is built for a stroke without limits.</span></strong><span> 🎱</span></p></td>
-  </tr>
-</table>
-]]>
-    </summary>
-    <s:variant>
-      <id>https://www.elitecue.shop/products/8049512153136</id>
-      <title>Default Title</title>
-      <s:price currency="PHP">2600.00</s:price>
-      <s:sku/>
-      <s:grams>200</s:grams>
-    </s:variant>
-  </entry>
-  <entry>
-    <id>https://www.elitecue.shop/products/8049534664752</id>
-    <published>2026-08-18T10:26:35+08:00</published>
-    <updated>2026-08-18T10:26:35+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/canadian-maple-carbon-insert-shaft"/>
-    <title>Canadian Maple + Carbon Insert Shaft</title>
-    <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
-    <summary type="html">
-      <![CDATA[<table border="0">
-  <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/3e08592b-6892-4091-a1aa-6dfd57f51396.png?v=1786685824"></td>
-    <td valign="bottom">
-      <p>
-
-        <strong>Vendor: </strong>Cues Master Shop<br>
-        <strong>Type: </strong><br>
-        <strong>Price: </strong>
-            3500.00
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2"><p class="isSelectedEnd"><strong><span>Traditional feel. Modern performance.</span></strong></p>
-<p class="isSelectedEnd"><span>The </span><strong><span>Canadian Maple Shaft with Carbon Insert</span></strong><span> is a hybrid cue shaft designed for players who want the natural feel and feedback of premium maple with the added stability and low-deflection characteristics of carbon technology.</span></p>
-<p class="isSelectedEnd"><span>Crafted from carefully selected </span><strong><span>Canadian maple</span></strong><span>, the shaft delivers the warm, familiar feedback and playing feel associated with a traditional wooden shaft. Integrated into the front section is a </span><strong><span>carbon fiber insert</span></strong><span>, reinforcing the shaft where stability matters most while maintaining a lightweight and responsive construction.</span></p>
-<h3><span>Why the Carbon Insert?</span></h3>
-<p class="isSelectedEnd"><span>When applying </span><strong><span>English or side spin</span></strong><span>, the cue ball can move away from the intended aiming line—a phenomenon commonly known as </span><strong><span>cue-ball squirt or deflection</span></strong><span>. Shaft construction, particularly the mass and stiffness of the front section, plays an important role in how the shaft responds to off-center hits.</span></p>
-<p class="isSelectedEnd"><span>The </span><strong><span>carbon insert</span></strong><span> reinforces and stabilizes the front section of the maple shaft, helping reduce front-end movement while maintaining the natural characteristics of the wood. The result is a more predictable shaft response when applying side spin, draw, follow, and other cue-ball control techniques.</span></p>
-<h3><span>Key Advantages</span></h3>
-<ul>
-<li>
-<strong><span>Low-Deflection Performance</span></strong><span> — Helps reduce cue-ball squirt when applying English</span>
-</li>
-<li>
-<strong><span>Natural Maple Feel</span></strong><span> — Maintains the familiar feedback and response of real Canadian maple</span>
-</li>
-<li>
-<strong><span>Carbon Reinforcement</span></strong><span> — Adds stiffness and stability to the front section</span>
-</li>
-<li>
-<strong><span>Improved Spin Control</span></strong><span> — Provides a more predictable response when using side spin, draw, and follow</span>
-</li>
-<li>
-<strong><span>Consistent Power Transfer</span></strong><span> — Reinforced construction helps transfer energy efficiently through the shaft</span>
-</li>
-<li>
-<strong><span>Stable Response</span></strong><span> — Carbon reinforcement helps reduce some of the variability associated with an all-wood front section</span>
-</li>
-<li>
-<strong><span>Traditional + Modern</span></strong><span> — Combines the feel of genuine maple with the performance advantages of carbon technology</span>
-</li>
-</ul>
-<h3><span>The Best of Both Worlds</span></h3>
-<p class="isSelectedEnd"><strong><span>Canadian Maple</span></strong><span> delivers the </span><strong><span>natural feel, feedback, and character of real wood.</span></strong></p>
-<p class="isSelectedEnd"><strong><span>Carbon Insert</span></strong><span> adds </span><strong><span>stability, stiffness, and low-deflection performance.</span></strong></p>
-<p class="isSelectedEnd"><span>Together, they create a hybrid shaft designed for players who want to </span><strong><span>feel the cue while maintaining greater control over the cue ball.</span></strong></p>
-<p class="isSelectedEnd"><strong><span>Natural wood feel. Carbon-enhanced stability. Low-deflection performance.</span></strong></p>
-<p><strong><span>Cues Master — Modern Technology. Human Craftsmanship.</span></strong><span> 🎱</span></p></td>
-  </tr>
-</table>
-]]>
-    </summary>
-    <s:variant>
-      <id>https://www.elitecue.shop/products/8049534664752</id>
-      <title>Default Title</title>
-      <s:price currency="PHP">3500.00</s:price>
-      <s:sku/>
-      <s:grams>1000</s:grams>
-    </s:variant>
-  </entry>
-  <entry>
-    <id>https://www.elitecue.shop/products/8049557340208</id>
-    <published>2026-08-18T10:24:35+08:00</published>
-    <updated>2026-08-18T10:24:35+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/taom-chalk"/>
-    <title>TAOM Chalk</title>
-    <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
-    <summary type="html">
-      <![CDATA[<table border="0">
-  <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/027ebbec-84da-411a-b851-3a8ebf7b935d.png?v=1786686720"></td>
-    <td valign="bottom">
-      <p>
-
-        <strong>Vendor: </strong>Cues Master Shop<br>
-        <strong>Type: </strong><br>
-        <strong>Price: </strong>
-            1800.00
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2"><p class="isSelectedEnd"><strong><span>Ultimate Grip. Maximum Control. Minimal Residue.</span></strong></p>
-<p class="isSelectedEnd"><span>The </span><strong><span>TAOM V10 Professional Chalk</span></strong><span> is a premium billiard chalk handmade in Finland and engineered for players who demand exceptional cue-ball grip without sacrificing a clean playing experience.</span></p>
-<p class="isSelectedEnd"><span>Its latest-generation formula provides </span><strong><span>strong friction between the cue tip and cue ball</span></strong><span>, giving players the confidence to apply English, draw, follow, and other demanding shots while maintaining a smooth and controlled feel.</span></p>
-<p class="isSelectedEnd"><span>Designed to work with </span><strong><span>all cue-tip hardnesses, from soft to hard</span></strong><span>, V10 offers consistent performance across different playing styles and cuesports.</span></p>
-<h3><span>Why Choose TAOM V10?</span></h3>
-<ul>
-<li>
-<strong><span>Ultimate Grip</span></strong><span> — Provides exceptional tip-to-ball friction for confident cue-ball control</span>
-</li>
-<li>
-<strong><span>Maximum Spin Potential</span></strong><span> — Helps maintain grip when applying English and demanding spin</span>
-</li>
-<li>
-<strong><span>Minimal Residue</span></strong><span> — Designed for a remarkably clean playing experience</span>
-</li>
-<li>
-<strong><span>Consistent Contact</span></strong><span> — Helps provide reliable tip-to-ball connection shot after shot</span>
-</li>
-<li>
-<strong><span>Excellent Control</span></strong><span> — Combines strong grip with a controlled and flexible playing feel</span>
-</li>
-<li>
-<strong><span>All Tip Hardness Compatible</span></strong><span> — Suitable for soft, medium, and hard tips</span>
-</li>
-<li>
-<strong><span>Multi-Cuesport Performance</span></strong><span> — Suitable for pool, snooker, and other cuesports</span>
-</li>
-<li>
-<strong><span>Handmade in Finland</span></strong><span> — Produced using Taom's specialized chalk formulation</span>
-</li>
-</ul>
-<h3><span>The V10 Advantage</span></h3>
-<p class="isSelectedEnd"><strong><span>More grip when you need it.</span><br><span>Less residue where you don't.</span></strong></p>
-<p class="isSelectedEnd"><span>TAOM V10 is engineered to give players the friction needed for demanding shots while keeping unwanted chalk transfer to a minimum. This means a cleaner cue ball, cleaner shaft, and cleaner playing surface.</span></p>
-<p class="isSelectedEnd"><strong><span>Perfect for:</span></strong><span> Players who want </span><strong><span>maximum cue-tip grip, reliable spin, precise cue-ball control, and a cleaner playing experience</span></strong><span> without compromising performance.</span></p>
-<p><strong><span>TAOM V10 — Ultimate Grip. Clean Performance.</span></strong></p></td>
-  </tr>
-</table>
-]]>
-    </summary>
-    <s:variant>
-      <id>https://www.elitecue.shop/products/8049557340208</id>
-      <title>Default Title</title>
-      <s:price currency="PHP">1800.00</s:price>
-      <s:sku/>
-      <s:grams>100</s:grams>
-    </s:variant>
-  </entry>
-  <entry>
-    <id>https://www.elitecue.shop/products/8049558421552</id>
-    <published>2026-08-18T10:22:15+08:00</published>
-    <updated>2026-08-18T10:22:15+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/kamui-roku-premium-chalk"/>
-    <title>KAMUI ROKU Premium Chalk</title>
-    <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
-    <summary type="html">
-      <![CDATA[<table border="0">
-  <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/3f1159cb-26fe-4e0c-b7b7-2b9284bd70c8.png?v=1786687298"></td>
-    <td valign="bottom">
-      <p>
-
-        <strong>Vendor: </strong>Cues Master Shop<br>
-        <strong>Type: </strong><br>
-        <strong>Price: </strong>
-            2100.00
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2"><p class="isSelectedEnd"><strong><span>Maximum Grip. Precise Control. Expanded Sweet Spot.</span></strong></p>
-<p class="isSelectedEnd"><span>The </span><strong><span>KAMUI ROKU</span></strong><span> is a premium Japanese billiard chalk engineered for players who demand exceptional grip, reliable adhesion, and precise cue-ball control. Its ultra-fine particle formulation is designed to maximize friction between the cue tip and cue ball, giving players greater confidence and consistency when applying English and demanding spin.</span></p>
-<p class="isSelectedEnd"><span>The name </span><strong><span>“ROKU,” meaning “six” in Japanese</span></strong><span>, reflects its distinctive hexagonal shape and the hexagonal close-packing concept behind its development. This unique approach brings together performance-focused engineering and distinctive design in a chalk developed for serious players.</span></p>
-<h3><span>Why Choose KAMUI ROKU?</span></h3>
-<ul>
-<li>
-<strong><span>High Grip Power</span></strong><span> — Provides strong friction between the cue tip and cue ball</span>
-</li>
-<li>
-<strong><span>Excellent Adhesion</span></strong><span> — Fine particles adhere effectively to the tip for reliable coverage</span>
-</li>
-<li>
-<strong><span>Ultra-Fine Particles</span></strong><span> — Designed to promote strong grip and an expanded effective contact area</span>
-</li>
-<li>
-<strong><span>Expanded Sweet Spot</span></strong><span> — Helps maintain control when striking the cue ball with English</span>
-</li>
-<li>
-<strong><span>High Solidity</span></strong><span> — Dense construction helps provide consistent application and durability</span>
-</li>
-<li>
-<strong><span>Greater Spin Control</span></strong><span> — Strong tip-to-ball friction supports demanding English, draw, and follow shots</span>
-</li>
-<li>
-<strong><span>Reduced Chalk Transfer</span></strong><span> — Designed to minimize unwanted residue on the cue ball and cloth</span>
-</li>
-<li>
-<strong><span>Japanese Precision</span></strong><span> — Developed in Japan with a performance-focused particle structure</span>
-</li>
-</ul>
-<h3><span>The ROKU Advantage</span></h3>
-<p class="isSelectedEnd"><strong><span>Grip</span></strong><span> gives you the confidence to attack the cue ball.</span></p>
-<p class="isSelectedEnd"><strong><span>Adhesion</span></strong><span> helps keep the tip properly covered without excessive application.</span></p>
-<p class="isSelectedEnd"><strong><span>Solidity</span></strong><span> provides a dense, consistent chalk designed for easy application and lasting performance.</span></p>
-<p class="isSelectedEnd"><span>Together, these characteristics create a balanced combination of </span><strong><span>grip, control, consistency, and durability</span></strong><span>.</span></p>
-<h3><span>Unique Hexagonal Design</span></h3>
-<p class="isSelectedEnd"><span>ROKU's distinctive </span><strong><span>six-sided shape</span></strong><span> is more than a visual signature. Its name and design are connected to KAMUI's </span><strong><span>hexagonal close-packing concept</span></strong><span>, reflecting the development philosophy behind its ultra-fine particle structure.</span></p>
-<p class="isSelectedEnd"><span>Available in </span><strong><span>Blue, Forest, Slate, and Sakura</span></strong><span>, ROKU combines distinctive design with high-level performance for players who demand more from their equipment.</span></p>
-<h3><span>Perfect For</span></h3>
-<p class="isSelectedEnd"><span>Players looking for a premium billiard chalk that delivers </span><strong><span>exceptional grip, strong adhesion, increased spin potential, precise cue-ball control, and reduced chalk transfer</span></strong><span>.</span></p>
-<p><strong><span>KAMUI ROKU — Maximum Grip. Precise Control.</span></strong><span> 🎱</span></p></td>
-  </tr>
-</table>
-]]>
-    </summary>
-    <s:variant>
-      <id>https://www.elitecue.shop/products/8049558421552</id>
-      <title>Default Title</title>
-      <s:price currency="PHP">2100.00</s:price>
-      <s:sku/>
-      <s:grams>100</s:grams>
-    </s:variant>
-  </entry>
-  <entry>
-    <id>https://www.elitecue.shop/products/8049562779696</id>
-    <published>2026-08-18T10:21:38+08:00</published>
-    <updated>2026-08-18T10:21:38+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/mezz-smart-chalk"/>
-    <title>MEZZ Smart Chalk</title>
-    <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
-    <summary type="html">
-      <![CDATA[<table border="0">
-  <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/0093d36d-fe8c-4d6f-83d1-583ab1c20437.png?v=1786687670"></td>
-    <td valign="bottom">
-      <p>
-
-        <strong>Vendor: </strong>Cues Master Shop<br>
-        <strong>Type: </strong><br>
-        <strong>Price: </strong>
-            2100.00
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2"><p class="isSelectedEnd"><strong><span>High Grip. Precise Control. Consistent Performance.</span></strong></p>
-<p class="isSelectedEnd"><span>The </span><strong><span>MEZZ Smart Chalk</span></strong><span> is a premium performance chalk developed for players who demand reliable tip adhesion, strong cue-ball grip, and consistent control. Its proprietary formulation is designed to increase friction between the cue tip and cue ball, helping players approach demanding shots with greater confidence while reducing the risk of miscues.</span></p>
-<p class="isSelectedEnd"><span>Smart Chalk is engineered to provide </span><strong><span>strong tip adhesion while minimizing unwanted chalk transfer onto the cue ball</span></strong><span>, creating a cleaner and more consistent playing experience.</span></p>
-<h3><span>Why Choose MEZZ Smart Chalk?</span></h3>
-<ul>
-<li>
-<strong><span>High Grip</span></strong><span> — Provides strong friction between the cue tip and cue ball</span>
-</li>
-<li>
-<strong><span>Expanded Contact Area</span></strong><span> — Helps maintain grip when striking the cue ball at more extreme contact points</span>
-</li>
-<li>
-<strong><span>Excellent Tip Adhesion</span></strong><span> — Provides reliable and consistent chalk coverage</span>
-</li>
-<li>
-<strong><span>Reduced Miscues</span></strong><span> — Strong adhesion helps maintain contact during demanding shots</span>
-</li>
-<li>
-<strong><span>Reduced Cue-Ball Transfer</span></strong><span> — Formulated to minimize unwanted chalk marks on the cue ball</span>
-</li>
-<li>
-<strong><span>Consistent Performance</span></strong><span> — Designed for reliable grip and control from shot to shot</span>
-</li>
-<li>
-<strong><span>Built-In Metal Plate</span></strong><span> — Allows the chalk to attach directly to compatible magnetic chalk holders</span>
-</li>
-<li>
-<strong><span>Premium Japanese Engineering</span></strong><span> — Developed with Mezz's performance-focused approach</span>
-</li>
-</ul>
-<h3><span>The Smart Chalk Advantage</span></h3>
-<p class="isSelectedEnd"><strong><span>More Grip</span></strong><span> gives you greater confidence when applying English and spin.</span></p>
-<p class="isSelectedEnd"><strong><span>Strong Adhesion</span></strong><span> helps keep the cue tip properly covered throughout play.</span></p>
-<p class="isSelectedEnd"><strong><span>Reduced Transfer</span></strong><span> means a cleaner cue ball and playing surface.</span></p>
-<p class="isSelectedEnd"><span>With its </span><strong><span>integrated metal plate</span></strong><span>, Smart Chalk also adds convenient magnetic storage to its performance-focused design.</span></p>
-<h3><span>Built for Serious Players</span></h3>
-<p class="isSelectedEnd"><span>Whether you're playing controlled position shots, powerful draw, or demanding side spin, </span><strong><span>MEZZ Smart Chalk</span></strong><span> is designed to provide the grip and consistency needed to confidently control the cue ball.</span></p>
-<h3><span>Perfect For</span></h3>
-<p class="isSelectedEnd"><span>Players looking for premium chalk that combines </span><strong><span>high grip, reliable tip adhesion, miscue resistance, reduced cue-ball residue, and convenient magnetic compatibility</span></strong><span>.</span></p>
-<p><strong><span>MEZZ Smart Chalk — Grip. Control. Confidence.</span></strong><span> 🎱</span></p></td>
-  </tr>
-</table>
-]]>
-    </summary>
-    <s:variant>
-      <id>https://www.elitecue.shop/products/8049562779696</id>
-      <title>Default Title</title>
-      <s:price currency="PHP">2100.00</s:price>
-      <s:sku/>
-      <s:grams>100</s:grams>
-    </s:variant>
-  </entry>
-  <entry>
-    <id>https://www.elitecue.shop/products/8049973887024</id>
-    <published>2026-08-18T10:21:04+08:00</published>
-    <updated>2026-08-18T10:21:04+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/super-hybrid-chalk"/>
-    <title>SUPER HybRid CHALK</title>
-    <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
-    <summary type="html">
-      <![CDATA[<table border="0">
-  <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/5f103c2b-557c-4f93-aefe-6b500558b8ad.png?v=1786762507"></td>
-    <td valign="bottom">
-      <p>
-
-        <strong>Vendor: </strong>Cues Master Shop<br>
-        <strong>Type: </strong><br>
-        <strong>Price: </strong>
-            1300.00
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2"><p class="isSelectedEnd"><strong><span>Enhanced Grip. Wider Contact. Cleaner Play.</span></strong></p>
-<p class="isSelectedEnd"><span>The </span><strong><span>SUPER HybRid CHALK</span></strong><span> is an advanced Japanese billiard chalk developed in collaboration with professional players </span><strong><span>Lo Li-Wen</span></strong><span> and </span><strong><span>Satoshi Kawabata</span></strong><span>. Evolved from the original HybRid CHALK, its formula was completely reconsidered and refined to deliver enhanced grip, improved miscue resistance, and a more balanced chalking experience.</span></p>
-<p class="isSelectedEnd"><span>The refined formulation provides a </span><strong><span>slightly more moist and comfortable feel</span></strong><span> compared with traditional dry chalk while maintaining controlled application. This balanced character gives players greater confidence when approaching demanding contact points, including shots played close to the edge or lower areas of the cue ball.</span></p>
-<h3><span>Why Choose SUPER HybRid?</span></h3>
-<ul>
-<li>
-<strong><span>Enhanced Grip</span></strong><span> — Provides strong tip-to-ball friction for confident cue-ball control</span>
-</li>
-<li>
-<strong><span>Wider Effective Contact</span></strong><span> — Helps maintain grip when striking closer to the edge of the cue ball</span>
-</li>
-<li>
-<strong><span>Excellent Miscue Resistance</span></strong><span> — Designed to provide greater confidence on demanding contact points</span>
-</li>
-<li>
-<strong><span>Balanced Chalking Feel</span></strong><span> — Sits between traditional dry chalk and very moist formulas</span>
-</li>
-<li>
-<strong><span>Smooth Application</span></strong><span> — Provides a comfortable and controlled feel when applying chalk to the tip</span>
-</li>
-<li>
-<strong><span>Low Chalk Transfer</span></strong><span> — Designed to minimize unwanted marks on the cue ball, cloth, and hand</span>
-</li>
-<li>
-<strong><span>Longer Lasting</span></strong><span> — Developed to wear more slowly than the original HybRid CHALK</span>
-</li>
-<li>
-<strong><span>Professional Development</span></strong><span> — Developed together with professional players Lo Li-Wen and Satoshi Kawabata</span>
-</li>
-<li>
-<strong><span>Made in Japan</span></strong><span> — Premium Japanese billiard chalk</span>
-</li>
-</ul>
-<h3><span>The SUPER HybRid Advantage</span></h3>
-<p class="isSelectedEnd"><strong><span>More Grip</span></strong><span> gives you greater confidence when pushing the limits of cue-ball control.</span></p>
-<p class="isSelectedEnd"><strong><span>Wider Contact</span></strong><span> helps maintain reliable tip-to-ball friction when playing extreme English or contacting lower and outer areas of the cue ball.</span></p>
-<p class="isSelectedEnd"><strong><span>Balanced Moisture</span></strong><span> provides a comfortable chalking feel without becoming excessively sticky or dry.</span></p>
-<p class="isSelectedEnd"><strong><span>Low Transfer</span></strong><span> helps keep the cue ball, cloth, and playing hand cleaner during play.</span></p>
-<h3><span>Available Colors</span></h3>
-<p class="isSelectedEnd"><strong><span>Blue • Green • Purple</span></strong></p>
-<h3><span>Perfect For</span></h3>
-<p class="isSelectedEnd"><span>Players looking for a premium Japanese billiard chalk that combines </span><strong><span>enhanced grip, excellent miscue resistance, a balanced chalking feel, low transfer, and long-lasting performance</span></strong><span>.</span></p>
-<p><strong><span>SUPER HybRid CHALK — Enhanced Grip. Wider Contact. Cleaner Play.</span></strong><span> 🎱</span></p></td>
-  </tr>
-</table>
-]]>
-    </summary>
-    <s:variant>
-      <id>https://www.elitecue.shop/products/8049973887024</id>
-      <title>Default Title</title>
-      <s:price currency="PHP">1300.00</s:price>
-      <s:sku/>
-      <s:grams>100</s:grams>
-    </s:variant>
-  </entry>
-  <entry>
-    <id>https://www.elitecue.shop/products/8049478369328</id>
-    <published>2026-08-18T10:19:49+08:00</published>
-    <updated>2026-08-18T10:19:49+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/naolly-crest-cue-tip"/>
-    <title>Naolly CREST Cue Tip</title>
-    <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
-    <summary type="html">
-      <![CDATA[<table border="0">
-  <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/p56303.jpg?v=1786676670"></td>
-    <td valign="bottom">
-      <p>
-
-        <strong>Vendor: </strong>Cues Master Shop<br>
-        <strong>Type: </strong><br>
-        <strong>Price: </strong>
-            1800.00
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2"><p class="isSelectedEnd"><span>The </span><strong><span>Naolly CREST Cue Tip</span></strong><span> is a premium Japanese-made cue tip crafted from carefully selected </span><strong><span>black pigskin leather</span></strong><span>. Its advanced </span><strong><span>10-layer laminated construction</span></strong><span> is engineered to deliver a refined balance of flexibility, elasticity, resilience, and grip, giving players a consistent and controlled connection with the cue ball.</span></p>
-<p class="isSelectedEnd"><span>Each leather layer undergoes a </span><strong><span>core-dyeing process</span></strong><span> to promote more uniform characteristics throughout the material, while Naolly's proprietary bonding technology helps maintain the integrity and stability of the laminated structure. The result is a cue tip designed for dependable response, precise cue ball control, and consistent feedback from shot to shot.</span></p>
-<h3><span>Features</span></h3>
-<ul>
-<li>
-<span>Premium </span><strong><span>Japanese black pigskin leather</span></strong>
-</li>
-<li>
-<span>Advanced </span><strong><span>10-layer laminated construction</span></strong>
-</li>
-<li><span>Core-dyed leather for more uniform characteristics</span></li>
-<li><span>Proprietary bonding technology between leather layers</span></li>
-<li><span>Excellent chalk adhesion and cue ball grip</span></li>
-<li><span>Controlled spin with responsive feedback</span></li>
-<li><span>Balanced flexibility, elasticity, and resilience</span></li>
-<li><span>Stable and consistent impact response</span></li>
-<li>
-<span>Approximately </span><strong><span>14mm diameter</span></strong>
-</li>
-<li>
-<span>Approximately </span><strong><span>6.6–7mm thickness</span></strong>
-</li>
-<li>
-<span>Available in </span><strong><span>Soft (S), Medium (M), and Hard (H)</span></strong>
-</li>
-</ul>
-<h3><span>Hardness Options</span></h3>
-<p class="isSelectedEnd"><strong><span>CREST S — Soft</span></strong><br><span>Designed for players who prefer enhanced touch, sensitivity, and spin.</span></p>
-<p class="isSelectedEnd"><strong><span>CREST M — Medium</span></strong><br><span>A balanced option offering an excellent combination of control, feel, and power.</span></p>
-<p class="isSelectedEnd"><strong><span>CREST H — Hard</span></strong><br><span>Provides a firmer, more direct hit with crisp feedback and efficient energy transfer.</span></p>
-<h3><span>Perfect For</span></h3>
-<p class="isSelectedEnd"><span>Players looking for a premium cue tip that combines </span><strong><span>precise control, excellent grip, responsive feedback, and consistent performance</span></strong><span> in a carefully engineered 10-layer Japanese pigskin construction.</span></p>
-<p><strong><span>10 layers. Refined response. Consistent control. The Naolly CREST is engineered for players who demand precision from every shot.</span></strong><span> 🎱</span></p></td>
-  </tr>
-</table>
-]]>
-    </summary>
-    <s:variant>
-      <id>https://www.elitecue.shop/products/8049478369328</id>
-      <title>Default Title</title>
-      <s:price currency="PHP">1800.00</s:price>
-      <s:sku/>
-      <s:grams>100</s:grams>
-    </s:variant>
-  </entry>
-  <entry>
-    <id>https://www.elitecue.shop/products/8049452417072</id>
-    <published>2026-08-18T10:18:35+08:00</published>
-    <updated>2026-08-18T10:18:35+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/taom-fusion-cue-tip"/>
-    <title>Taom Fusion Cue Tip</title>
-    <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
-    <summary type="html">
-      <![CDATA[<table border="0">
-  <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/s-l1200.jpg?v=1786676292"></td>
-    <td valign="bottom">
-      <p>
-
-        <strong>Vendor: </strong>Cues Master Shop<br>
-        <strong>Type: </strong><br>
-        <strong>Price: </strong>
-            1800.00
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2"><p class="isSelectedEnd"><span>The </span><strong><span>Taom Fusion Cue Tip</span></strong><span> is engineered for players who want a powerful, precise, and responsive hit without sacrificing touch and control. Its unique hybrid construction combines a </span><strong><span>hardened center with softer, more elastic edges</span></strong><span>, creating a balanced response that delivers efficient power transfer while maintaining excellent feel around the cue ball.</span></p>
-<p class="isSelectedEnd"><span>Constructed from </span><strong><span>7 layers of high-quality pigskin leather</span></strong><span>, the Fusion is designed to provide consistent energy transfer and a controlled, confident response across a wide range of shots. The firmer center supports powerful cue-ball action, while the softer outer edges help deliver the touch and control needed for precise positional play.</span></p>
-<h3><span>Features</span></h3>
-<ul>
-<li>
-<strong><span>7-layer</span></strong><span> premium pigskin leather construction</span>
-</li>
-<li><span>Hardened center for efficient power transmission</span></li>
-<li><span>Softer, more elastic edges for enhanced control and feel</span></li>
-<li><span>Balanced combination of power, precision, and responsiveness</span></li>
-<li><span>Designed for consistent performance across different shot types</span></li>
-<li>
-<strong><span>14mm diameter</span></strong><span> for pool cues</span>
-</li>
-<li><span>Advanced hybrid construction by Taom</span></li>
-<li><span>Firm, controlled playing response</span></li>
-</ul>
-<h3><span>Perfect For</span></h3>
-<p class="isSelectedEnd"><span>Players looking for a premium cue tip that combines </span><strong><span>power and control in one design</span></strong><span>. The Taom Fusion delivers a confident, responsive hit—from delicate positional shots to powerful cue-ball actions.</span></p>
-<p><strong><span>Power when you need it. Touch when it matters. The Taom Fusion delivers both.</span></strong><span> 🎱</span></p></td>
-  </tr>
-</table>
-]]>
-    </summary>
-    <s:variant>
-      <id>https://www.elitecue.shop/products/8049452417072</id>
-      <title>Default Title</title>
-      <s:price currency="PHP">1800.00</s:price>
-      <s:sku/>
-      <s:grams>100</s:grams>
-    </s:variant>
-  </entry>
-  <entry>
-    <id>https://www.elitecue.shop/products/8040995815472</id>
-    <published>2026-08-14T09:39:40+08:00</published>
-    <updated>2026-08-14T09:39:40+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/untitled-aug6_03-12-08"/>
-    <title>Northern Ember – Handcrafted Custom Pool Cue | Cues Master</title>
-    <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
-    <summary type="html">
-      <![CDATA[<table border="0">
-  <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/123.png?v=1786593600"></td>
-    <td valign="bottom">
-      <p>
-
-        <strong>Vendor: </strong>Cues Master Shop<br>
-        <strong>Type: </strong><br>
-        <strong>Price: </strong>
-            20000.00
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2"><p class="isSelectedEnd"><span>Striking, refined, and deeply rooted in natural beauty, the </span><strong><span>Northern Ember</span></strong><span> is a handcrafted custom pool cue that brings together elegant Canadian maple, dramatic organic wood grain, and contemporary resin artistry. The </span><strong><span>premium Canadian maple forearm</span></strong><span> provides a clean, warm foundation, enhanced by meticulously handcrafted </span><strong><span>resin inlays</span></strong><span> that introduce depth, color, and character to the design.</span></p>
-<p class="isSelectedEnd"><span>The cue transitions into a distinctive </span><strong><span>spalted wood butt sleeve</span></strong><span>, showcasing naturally occurring grain patterns that make every piece truly one of a kind. Rich </span><strong><span>resin accents</span></strong><span> flow throughout the design, creating a seamless connection between the natural wood elements, while the </span><strong><span>resin grip</span></strong><span> adds a modern aesthetic with a smooth and comfortable feel in the hand.</span></p>
-<p class="isSelectedEnd"><span>Completing the design are </span><strong><span>resin rings</span></strong><span>, adding clean lines and visual balance throughout the cue. The combination of Canadian maple, dramatic spalted wood, handcrafted inlays, and vibrant resin creates a contemporary masterpiece where </span><strong><span>traditional artisan craftsmanship meets modern cue design</span></strong><span>.</span></p>
-<p class="isSelectedEnd"><span>Built for players who appreciate individuality and exceptional craftsmanship, the Northern Ember is more than a playing cue—it is a statement piece. Every grain, inlay, resin detail, and handcrafted element contributes to a cue that is unmistakably unique.</span></p>
-<h3><span>Specifications</span></h3>
-<ul>
-<li>
-<strong><span>Forearm:</span></strong><span> Premium Canadian Maple with Handcrafted Resin Inlays</span>
-</li>
-<li>
-<strong><span>Handle / Grip:</span></strong><span> Custom Resin Grip</span>
-</li>
-<li>
-<strong><span>Butt Sleeve:</span></strong><span> Premium Spalted Wood with Resin Accents</span>
-</li>
-<li>
-<strong><span>Rings:</span></strong><span> Resin Rings</span>
-</li>
-<li>
-<strong><span>Pin:</span></strong><span> Radial</span>
-</li>
-<li>
-<strong><span>Construction:</span></strong><span> Handcrafted Custom Cue</span>
-</li>
-<li>
-<strong><span>Brand:</span></strong><span> Cues Master</span>
-</li>
-</ul>
-<p><strong><span>Natural beauty. Bold character. Modern craftsmanship. A one-of-a-kind cue built to be played, admired, and remembered.</span></strong><span> 🎱</span></p></td>
-  </tr>
-</table>
-]]>
-    </summary>
-    <s:variant>
-      <id>https://www.elitecue.shop/products/8040995815472</id>
-      <title>Default Title</title>
-      <s:price currency="PHP">20000.00</s:price>
-      <s:sku/>
-      <s:grams>1000</s:grams>
-    </s:variant>
-  </entry>
+  
   <entry>
     <id>https://www.elitecue.shop/products/8048315269168</id>
     <published>2026-08-14T09:39:06+08:00</published>
     <updated>2026-08-14T09:39:06+08:00</updated>
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/arctic-abyss-handcrafted-custom-pool-cue-cues-master"/>
-    <title>Arctic Abyss – Handcrafted Custom Pool Cue | Cues Master</title>
+    <title>Arctic Abyss – Handcrafted Custom Pool Cue | Elite Cue</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -810,7 +24,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             18000.00
@@ -821,7 +35,7 @@
     <td colspan="2"><p class="isSelectedEnd"><span>Bold, elegant, and inspired by the mysterious depths of northern waters, the </span><strong><span>Arctic Abyss</span></strong><span> is a handcrafted custom pool cue that brings together the natural beauty of premium Canadian maple with the captivating movement of colored resin. Its design captures the contrast between organic wood grain and flowing resin artistry, creating a cue that feels both refined and distinctly modern.</span></p>
 <p class="isSelectedEnd"><span>The </span><strong><span>premium Canadian maple forearm</span></strong><span> provides a clean, sophisticated foundation, enhanced by meticulously handcrafted </span><strong><span>resin inlays</span></strong><span> flowing through rich shades of blue and violet. Each resin element is carefully shaped and integrated into the maple, creating a dynamic pattern with remarkable depth, movement, and individuality.</span></p>
 <p class="isSelectedEnd"><span>The design continues through the </span><strong><span>custom resin grip</span></strong><span>, carrying the same artistic character into the handle for a seamless contemporary aesthetic. Decorative </span><strong><span>custom ringwork</span></strong><span> provides clean transitions and visual balance throughout the cue, while the precision </span><strong><span>Radial pin</span></strong><span> ensures a secure and accurate connection between the butt and shaft.</span></p>
-<p class="isSelectedEnd"><span>Created for discerning players and collectors, the Arctic Abyss reflects the craftsmanship, precision, and creativity behind every Cues Master creation. It is a distinctive expression of modern cue artistry—where natural materials and handcrafted resin come together to create something truly one of a kind.</span></p>
+<p class="isSelectedEnd"><span>Created for discerning players and collectors, the Arctic Abyss reflects the craftsmanship, precision, and creativity behind every Elite Cue creation. It is a distinctive expression of modern cue artistry—where natural materials and handcrafted resin come together to create something truly one of a kind.</span></p>
 <h3><span>Specifications</span></h3>
 <ul>
 <li>
@@ -843,7 +57,7 @@
 <strong><span>Construction:</span></strong><span> Handcrafted Custom Cue</span>
 </li>
 <li>
-<strong><span>Brand:</span></strong><span> Cues Master</span>
+<strong><span>Brand:</span></strong><span> Elite Cue</span>
 </li>
 </ul>
 <p><strong><span>Natural maple. Flowing resin. Modern artistry. The Arctic Abyss is handcrafted for those who appreciate a cue unlike any other.</span></strong><span> 🎱</span></p></td>
@@ -864,9 +78,9 @@
     <published>2026-08-14T09:38:36+08:00</published>
     <updated>2026-08-14T09:38:36+08:00</updated>
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/dragon-s-shadow-handcrafted-custom-pool-cue-cues-master"/>
-    <title>Dragon’s Shadow – Handcrafted Custom Pool Cue | Cues Master</title>
+    <title>Dragon’s Shadow – Handcrafted Custom Pool Cue | Elite Cue</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -874,7 +88,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             35000.00
@@ -910,7 +124,7 @@
 <p><strong>Construction:</strong> Handcrafted Custom Cue</p>
 </li>
 <li>
-<p><strong>Brand:</strong> Cues Master</p>
+<p><strong>Brand:</strong> Elite Cue</p>
 </li>
 </ul>
 <p><strong>Dark elegance. Natural character. Legendary craftsmanship. A cue designed to make a statement before the first shot is played.</strong> 🐉🎱</p></td>
@@ -931,9 +145,9 @@
     <published>2026-08-14T09:38:03+08:00</published>
     <updated>2026-08-14T09:38:03+08:00</updated>
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/emerald-frost-handcrafted-custom-pool-cue-cues-master"/>
-    <title>Emerald Frost – Handcrafted Custom Pool Cue | Cues Master</title>
+    <title>Emerald Frost – Handcrafted Custom Pool Cue | Elite Cue</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -941,7 +155,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             28000.00
@@ -986,7 +200,7 @@
 <strong><span>Construction:</span></strong><span> Handcrafted Custom Cue</span>
 </li>
 <li>
-<strong><span>Brand:</span></strong><span> Cues Master</span>
+<strong><span>Brand:</span></strong><span> Elite Cue</span>
 </li>
 </ul>
 <p><strong><span>Natural maple. Emerald resin. Iridescent abalone. Precision craftsmanship. Emerald Frost is where bold modern design meets the timeless art of handcrafted cue making.</span></strong><span> 🎱</span></p></td>
@@ -1007,9 +221,9 @@
     <published>2026-08-14T09:37:32+08:00</published>
     <updated>2026-08-14T09:37:32+08:00</updated>
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/emerald-sovereign-handcrafted-custom-pool-cue-cues-master"/>
-    <title>Emerald Sovereign – Handcrafted Custom Pool Cue | Cues Master</title>
+    <title>Emerald Sovereign – Handcrafted Custom Pool Cue | Elite Cue</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -1017,7 +231,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             18000.00
@@ -1047,7 +261,7 @@
 <strong><span>Construction:</span></strong><span> Handcrafted Custom Cue</span>
 </li>
 <li>
-<strong><span>Brand:</span></strong><span> Cues Master</span>
+<strong><span>Brand:</span></strong><span> Elite Cue</span>
 </li>
 </ul>
 <p><strong><span>Natural ashwood. Rich resin. Iridescent abalone. Timeless luxury—crafted into a cue with a presence all its own.</span></strong><span> 🎱</span></p></td>
@@ -1068,9 +282,9 @@
     <published>2026-08-14T09:37:05+08:00</published>
     <updated>2026-08-14T09:37:05+08:00</updated>
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/obsidian-crown-handcrafted-custom-pool-cue-cues-master"/>
-    <title>Obsidian Crown – Handcrafted Custom Pool Cue | Cues Master</title>
+    <title>Obsidian Crown – Handcrafted Custom Pool Cue | Elite Cue</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -1078,7 +292,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             25000.00
@@ -1112,7 +326,7 @@
 <strong><span>Construction:</span></strong><span> Handcrafted Custom Cue</span>
 </li>
 <li>
-<strong><span>Brand:</span></strong><span> Cues Master</span>
+<strong><span>Brand:</span></strong><span> Elite Cue</span>
 </li>
 </ul>
 <p><strong><span>Dark maple. Iridescent abalone. Crocodile texture. Quiet luxury with a commanding presence—the Obsidian Crown.</span></strong><span> 🎱</span></p></td>
@@ -1133,9 +347,9 @@
     <published>2026-08-14T09:36:11+08:00</published>
     <updated>2026-08-14T09:36:11+08:00</updated>
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/imperial-geometry-handcrafted-custom-pool-cue-cues-master"/>
-    <title>Imperial Geometry – Handcrafted Custom Pool Cue | Cues Master</title>
+    <title>Imperial Geometry – Handcrafted Custom Pool Cue | Elite Cue</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -1143,7 +357,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             25000.00
@@ -1155,7 +369,7 @@
 <p class="isSelectedEnd"><span>The </span><strong><span>premium Canadian maple forearm</span></strong><span> provides a clean, sophisticated foundation for a striking arrangement of meticulously handcrafted </span><strong><span>resin and abalone inlays</span></strong><span>. Sharp geometric forms flow along the cue in a carefully balanced composition, combining contrasting shapes, rich resin tones, and shimmering abalone accents. The result is a bold, architectural aesthetic that adds visual depth while preserving the natural warmth of the maple.</span></p>
 <p class="isSelectedEnd"><span>Matching </span><strong><span>resin and abalone detailing</span></strong><span> continues through the butt sleeve, creating seamless visual continuity from forearm to butt. Custom </span><strong><span>resin rings</span></strong><span> complement the geometric inlay pattern, adding clean separation and a refined finishing touch.</span></p>
 <p class="isSelectedEnd"><span>A premium </span><strong><span>synthetic wrap</span></strong><span> provides a comfortable, secure grip while creating a sophisticated contrast against the natural maple and intricate butt design. The precision </span><strong><span>Radial pin</span></strong><span> completes the construction with a solid and dependable connection between the butt and shaft.</span></p>
-<p class="isSelectedEnd"><span>Created for discerning players and collectors who appreciate meticulous craftsmanship and distinctive design, the Imperial Geometry represents the harmony of </span><strong><span>precision, elegance, and individuality</span></strong><span> that defines a Cues Master creation.</span></p>
+<p class="isSelectedEnd"><span>Created for discerning players and collectors who appreciate meticulous craftsmanship and distinctive design, the Imperial Geometry represents the harmony of </span><strong><span>precision, elegance, and individuality</span></strong><span> that defines an Elite Cue creation.</span></p>
 <h3><span>Specifications</span></h3>
 <ul>
 <li>
@@ -1177,7 +391,7 @@
 <strong><span>Construction:</span></strong><span> Handcrafted Custom Cue</span>
 </li>
 <li>
-<strong><span>Brand:</span></strong><span> Cues Master</span>
+<strong><span>Brand:</span></strong><span> Elite Cue</span>
 </li>
 </ul>
 <p><strong><span>Precision in every line. Character in every detail. The Imperial Geometry is handcrafted for those who appreciate the artistry behind the game.</span></strong><span> 🎱</span></p></td>
@@ -1198,9 +412,9 @@
     <published>2026-08-14T09:35:44+08:00</published>
     <updated>2026-08-14T09:35:44+08:00</updated>
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/sapphire-noir-handcrafted-custom-pool-cue-cues-master"/>
-    <title>Sapphire Noir – Handcrafted Custom Pool Cue | Cues Master</title>
+    <title>Sapphire Noir – Handcrafted Custom Pool Cue | Elite Cue</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -1208,7 +422,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             18000.00
@@ -1245,7 +459,7 @@
 <strong><span>Construction:</span></strong><span> Handcrafted Custom Cue</span>
 </li>
 <li>
-<strong><span>Brand:</span></strong><span> Cues Master</span>
+<strong><span>Brand:</span></strong><span> Elite Cue</span>
 </li>
 </ul>
 <p><strong><span>Natural ashwood. Deep blue resin. Iridescent abalone. Crocodile texture. A bold expression of handcrafted luxury—the Sapphire Noir.</span></strong><span> 🎱</span></p></td>
@@ -1266,9 +480,9 @@
     <published>2026-08-14T09:34:58+08:00</published>
     <updated>2026-08-14T09:34:58+08:00</updated>
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/royal-ember-handcrafted-custom-pool-cue-cues-master"/>
-    <title>Royal Ember – Handcrafted Custom Pool Cue | Cues Master</title>
+    <title>Royal Ember – Handcrafted Custom Pool Cue | Elite Cue</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -1276,7 +490,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             25000.00
@@ -1310,7 +524,7 @@
 <strong><span>Construction:</span></strong><span> Handcrafted Custom Cue</span>
 </li>
 <li>
-<strong><span>Brand:</span></strong><span> Cues Master</span>
+<strong><span>Brand:</span></strong><span> Elite Cue</span>
 </li>
 </ul>
 <p><strong><span>Black-stained Canadian maple. Rich rosewood. Crimson crocodile. Iridescent abalone. A commanding expression of handcrafted luxury, created for those who demand something truly distinctive.</span></strong><span> 🎱</span></p></td>
@@ -1331,9 +545,9 @@
     <published>2026-08-14T09:34:10+08:00</published>
     <updated>2026-08-14T09:34:10+08:00</updated>
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/white-eclipse-handcrafted-custom-pool-cue-cues-master"/>
-    <title>White Eclipse – Handcrafted Custom Pool Cue | Cues Master</title>
+    <title>White Eclipse – Handcrafted Custom Pool Cue | Elite Cue</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -1341,7 +555,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             27000.00
@@ -1375,7 +589,7 @@
 <strong><span>Construction:</span></strong><span> Handcrafted Custom Cue</span>
 </li>
 <li>
-<strong><span>Brand:</span></strong><span> Cues Master</span>
+<strong><span>Brand:</span></strong><span> Elite Cue</span>
 </li>
 </ul>
 <p><strong><span>Light meets shadow. Natural grain meets iridescent detail. The White Eclipse is crafted to stand apart.</span></strong><span> 🎱</span></p></td>
@@ -1395,10 +609,10 @@
     <id>https://www.elitecue.shop/products/8048429432880</id>
     <published>2026-08-14T09:33:18+08:00</published>
     <updated>2026-08-14T09:33:18+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/aaa"/>
-    <title>Scarlet Regent – Handcrafted Custom Pool Cue | Cues Master</title>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/scarlet-regent-handcrafted-custom-pool-cue"/>
+    <title>Scarlet Regent – Handcrafted Custom Pool Cue | Elite Cue</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -1406,7 +620,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             23000.00
@@ -1440,7 +654,7 @@
 <strong><span>Construction:</span></strong><span> Handcrafted Custom Cue</span>
 </li>
 <li>
-<strong><span>Brand:</span></strong><span> Cues Master</span>
+<strong><span>Brand:</span></strong><span> Elite Cue</span>
 </li>
 </ul>
 <p><strong><span>Natural ashwood. Rich rosewood. Crimson crocodile. Iridescent abalone. A regal expression of handcrafted luxury, created for those who appreciate character, craftsmanship, and individuality.</span></strong><span> 🎱</span></p></td>
@@ -1463,7 +677,7 @@
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/royal-eclipse-handcrafted-custom-pool-cue-butt"/>
     <title>Maple x Spalted Tamarind 12 pointer (Butt only)</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -1471,7 +685,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             20000.00
@@ -1480,7 +694,7 @@
   </tr>
   <tr>
     <td colspan="2"><p> Crafted from <strong>premium figured Canadian maple</strong>, this cue features <strong>spalted tamarind points</strong> accented with <strong>purple veneers</strong>, creating a striking contrast that highlights the natural beauty of both woods. Finished with a <strong>black crocodile-embossed leather wrap</strong>, it offers a luxurious feel and a secure, comfortable grip.</p>
-<p>Every Cues Master cue is handcrafted with precision and attention to detail, ensuring each piece is as unique as the player who owns it. Whether paired with your favorite shaft for competitive play or displayed as part of a premium collection, the <strong>Royal Eclipse</strong> delivers the perfect balance of beauty, craftsmanship, and performance.</p>
+<p>Every Elite Cue cue is handcrafted with precision and attention to detail, ensuring each piece is as unique as the player who owns it. Whether paired with your favorite shaft for competitive play or displayed as part of a premium collection, the <strong>Royal Eclipse</strong> delivers the perfect balance of beauty, craftsmanship, and performance.</p>
 <h3>Specifications</h3>
 <ul>
 <li>
@@ -1529,7 +743,7 @@
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/celestial-blade"/>
     <title>Ebony wood x Celestial Blade (Butt only)</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -1537,7 +751,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             42000.00
@@ -1588,7 +802,7 @@
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/imperial-heritage-handcrafted-custom-pool-cue-butt-cues-master"/>
     <title>Maple x Spalted Tamarind x Resin (Butt only)</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -1596,7 +810,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             23000.00
@@ -1672,7 +886,7 @@
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/sovereign-point-handcrafted-custom-pool-cue-butt-cues-master"/>
     <title>Maple x 12 Pointer Abalone (Butt only)</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -1680,7 +894,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             21000.00
@@ -1689,7 +903,7 @@
   </tr>
   <tr>
     <td colspan="2"><p class="PDq2pG_selectionAnchorContainer">Crafted from <strong>Canadian maple</strong>, this custom cue butt showcases elegant long points enhanced by meticulously handcrafted <strong>abalone inlays</strong>, creating a sophisticated design that is both bold and understated. Finished with a <strong>premium Black Croco wrap</strong>, it offers a luxurious feel and a secure, comfortable grip for confident play.<span class="PDq2pG_selectionAnchor"></span></p>
-<p>Designed for discerning players and collectors alike, the Sovereign Point embodies the precision, balance, and attention to detail that define every Cues Master creation. Whether paired with your preferred shaft or displayed as part of a distinguished collection, it is a timeless expression of craftsmanship and enduring style.</p>
+<p>Designed for discerning players and collectors alike, the Sovereign Point embodies the precision, balance, and attention to detail that define every Elite Cue creation. Whether paired with your preferred shaft or displayed as part of a distinguished collection, it is a timeless expression of craftsmanship and enduring style.</p>
 <h3>Specifications</h3>
 <ul>
 <li>

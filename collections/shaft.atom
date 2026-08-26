@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
   <id>https://www.elitecue.shop/collections/all.atom</id>
-  <link rel="alternate" type="text/html" href="https://www.elitecue.shop/collections/all"/>
+  <link rel="alternate" type="text/html" href="https://www.elitecue.shop/collections/shaft"/>
   <link rel="self" type="application/atom+xml" href="https://www.elitecue.shop/collections/shaft.atom"/>
-  <title>Cues Master Shop</title>
+  <title>Elite Cue</title>
   <updated>2026-08-18T10:26:35+08:00</updated>
   <author>
-    <name>Cues Master Shop</name>
+    <name>Elite Cue</name>
   </author>
   <entry>
     <id>https://www.elitecue.shop/products/8049534664752</id>
@@ -15,7 +15,7 @@
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/canadian-maple-carbon-insert-shaft"/>
     <title>Canadian Maple + Carbon Insert Shaft</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -23,7 +23,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             3500.00
@@ -66,7 +66,7 @@
 <p class="isSelectedEnd"><strong><span>Carbon Insert</span></strong><span> adds </span><strong><span>stability, stiffness, and low-deflection performance.</span></strong></p>
 <p class="isSelectedEnd"><span>Together, they create a hybrid shaft designed for players who want to </span><strong><span>feel the cue while maintaining greater control over the cue ball.</span></strong></p>
 <p class="isSelectedEnd"><strong><span>Natural wood feel. Carbon-enhanced stability. Low-deflection performance.</span></strong></p>
-<p><strong><span>Cues Master — Modern Technology. Human Craftsmanship.</span></strong><span> 🎱</span></p></td>
+<p><strong><span>Elite Cue — Modern Technology. Human Craftsmanship.</span></strong><span> 🎱</span></p></td>
   </tr>
 </table>
 ]]>
@@ -86,7 +86,7 @@
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/torrefied-maple-shaft-kielwood"/>
     <title>Torrefied Maple Shaft (Kielwood)</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -94,7 +94,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             13000.00 - 138000.00

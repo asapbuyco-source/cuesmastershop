@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
   <id>https://www.elitecue.shop/collections/all.atom</id>
-  <link rel="alternate" type="text/html" href="https://www.elitecue.shop/collections/all"/>
+  <link rel="alternate" type="text/html" href="https://www.elitecue.shop/collections/exotic-woods"/>
   <link rel="self" type="application/atom+xml" href="https://www.elitecue.shop/collections/exotic-woods.atom"/>
-  <title>Cues Master Shop</title>
+  <title>Elite Cue</title>
   <updated>2026-08-01T15:11:45+08:00</updated>
   <author>
-    <name>Cues Master Shop</name>
+    <name>Elite Cue</name>
   </author>
   <entry>
     <id>https://www.elitecue.shop/products/8036781588528</id>
@@ -15,7 +15,7 @@
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/spalted-tamarind-cue"/>
     <title>Spalted Tamarind X Maple (Butt only)</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -23,7 +23,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             30000.00
@@ -31,7 +31,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2"><p class="PDq2pG_selectionAnchorContainer">Elevate your game with this handcrafted <strong>Cues Master Custom Cue</strong>, featuring a striking <strong>spalted tamarind wood</strong> that showcases expert craftsmanship and timeless elegance. The combination of figured maple and vibrant resin creates a cue that stands out both in appearance and performance.<span class="PDq2pG_selectionAnchor"></span></p>
+    <td colspan="2"><p class="PDq2pG_selectionAnchorContainer">Elevate your game with this handcrafted <strong>Elite Cue Custom Cue</strong>, featuring a striking <strong>spalted tamarind wood</strong> that showcases expert craftsmanship and timeless elegance. The combination of figured maple and vibrant resin creates a cue that stands out both in appearance and performance.<span class="PDq2pG_selectionAnchor"></span></p>
 <h3>Specifications</h3>
 <ul>
 <li>
@@ -69,7 +69,7 @@
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/tri-cut-spalted-tamarind-custom-cue-with-torrefied-maple-shaft"/>
     <title>Tri-Cut Spalted Tamarind Custom Cue with Torrefied Maple Shaft</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -77,7 +77,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             45000.00
@@ -124,7 +124,7 @@
 <li>Smooth pro taper for effortless stroke and cue ball control</li>
 <li>Built for serious players who demand performance without compromising style</li>
 </ul>
-<p><strong>Every Cues Master cue is individually handcrafted, making each piece one of a kind. The natural wood grain ensures no two cues are ever exactly alike.</strong></p></td>
+<p><strong>Every Elite Cue cue is individually handcrafted, making each piece one of a kind. The natural wood grain ensures no two cues are ever exactly alike.</strong></p></td>
   </tr>
 </table>
 ]]>

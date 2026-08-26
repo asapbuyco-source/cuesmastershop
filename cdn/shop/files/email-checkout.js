@@ -1423,7 +1423,7 @@
 
   function initAvailabilityCards() {
     document.querySelectorAll('.card-wrapper, .product-card-wrapper').forEach(function (card) {
-      var link = card.querySelector('a[href*=".html"]');
+      var link = card.querySelector('a[href*="/products/"]');
       if (!link) return;
       var href = link.getAttribute('href') || '';
       var isAvail = AVAILABILITY_SLUGS.some(function (s) { return href.indexOf(s) !== -1; });
@@ -1575,7 +1575,7 @@
   function initQuickView() {
     document.querySelectorAll('.product-card-wrapper').forEach(function (wrapper) {
       if (wrapper.querySelector('.cm-quick-view')) return;
-      var link = wrapper.querySelector('a.full-unstyled-link[href], a[href*=".html"]');
+      var link = wrapper.querySelector('a.full-unstyled-link[href], a[href*="/products/"]');
       if (!link) return;
       var media = wrapper.querySelector('.card__media');
       if (!media) return;

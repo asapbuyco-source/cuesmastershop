@@ -1,85 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
   <id>https://www.elitecue.shop/collections/all.atom</id>
-  <link rel="alternate" type="text/html" href="https://www.elitecue.shop/collections/all"/>
+  <link rel="alternate" type="text/html" href="https://www.elitecue.shop/collections/classic-collection"/>
   <link rel="self" type="application/atom+xml" href="https://www.elitecue.shop/collections/classic-collection.atom"/>
-  <title>Cues Master Shop</title>
+  <title>Elite Cue</title>
   <updated>2026-08-14T09:39:40+08:00</updated>
   <author>
-    <name>Cues Master Shop</name>
+    <name>Elite Cue</name>
   </author>
-  <entry>
-    <id>https://www.elitecue.shop/products/8040995815472</id>
-    <published>2026-08-14T09:39:40+08:00</published>
-    <updated>2026-08-14T09:39:40+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/untitled-aug6_03-12-08"/>
-    <title>Northern Ember – Handcrafted Custom Pool Cue | Cues Master</title>
-    <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
-    <summary type="html">
-      <![CDATA[<table border="0">
-  <tr>
-    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0697/4878/5200/files/123.png?v=1786593600"></td>
-    <td valign="bottom">
-      <p>
-
-        <strong>Vendor: </strong>Cues Master Shop<br>
-        <strong>Type: </strong><br>
-        <strong>Price: </strong>
-            20000.00
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2"><p class="isSelectedEnd"><span>Striking, refined, and deeply rooted in natural beauty, the </span><strong><span>Northern Ember</span></strong><span> is a handcrafted custom pool cue that brings together elegant Canadian maple, dramatic organic wood grain, and contemporary resin artistry. The </span><strong><span>premium Canadian maple forearm</span></strong><span> provides a clean, warm foundation, enhanced by meticulously handcrafted </span><strong><span>resin inlays</span></strong><span> that introduce depth, color, and character to the design.</span></p>
-<p class="isSelectedEnd"><span>The cue transitions into a distinctive </span><strong><span>spalted wood butt sleeve</span></strong><span>, showcasing naturally occurring grain patterns that make every piece truly one of a kind. Rich </span><strong><span>resin accents</span></strong><span> flow throughout the design, creating a seamless connection between the natural wood elements, while the </span><strong><span>resin grip</span></strong><span> adds a modern aesthetic with a smooth and comfortable feel in the hand.</span></p>
-<p class="isSelectedEnd"><span>Completing the design are </span><strong><span>resin rings</span></strong><span>, adding clean lines and visual balance throughout the cue. The combination of Canadian maple, dramatic spalted wood, handcrafted inlays, and vibrant resin creates a contemporary masterpiece where </span><strong><span>traditional artisan craftsmanship meets modern cue design</span></strong><span>.</span></p>
-<p class="isSelectedEnd"><span>Built for players who appreciate individuality and exceptional craftsmanship, the Northern Ember is more than a playing cue—it is a statement piece. Every grain, inlay, resin detail, and handcrafted element contributes to a cue that is unmistakably unique.</span></p>
-<h3><span>Specifications</span></h3>
-<ul>
-<li>
-<strong><span>Forearm:</span></strong><span> Premium Canadian Maple with Handcrafted Resin Inlays</span>
-</li>
-<li>
-<strong><span>Handle / Grip:</span></strong><span> Custom Resin Grip</span>
-</li>
-<li>
-<strong><span>Butt Sleeve:</span></strong><span> Premium Spalted Wood with Resin Accents</span>
-</li>
-<li>
-<strong><span>Rings:</span></strong><span> Resin Rings</span>
-</li>
-<li>
-<strong><span>Pin:</span></strong><span> Radial</span>
-</li>
-<li>
-<strong><span>Construction:</span></strong><span> Handcrafted Custom Cue</span>
-</li>
-<li>
-<strong><span>Brand:</span></strong><span> Cues Master</span>
-</li>
-</ul>
-<p><strong><span>Natural beauty. Bold character. Modern craftsmanship. A one-of-a-kind cue built to be played, admired, and remembered.</span></strong><span> 🎱</span></p></td>
-  </tr>
-</table>
-]]>
-    </summary>
-    <s:variant>
-      <id>https://www.elitecue.shop/products/8040995815472</id>
-      <title>Default Title</title>
-      <s:price currency="PHP">20000.00</s:price>
-      <s:sku/>
-      <s:grams>1000</s:grams>
-    </s:variant>
-  </entry>
+  
   <entry>
     <id>https://www.elitecue.shop/products/8048331587632</id>
     <published>2026-08-14T09:38:03+08:00</published>
     <updated>2026-08-14T09:38:03+08:00</updated>
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/emerald-frost-handcrafted-custom-pool-cue-cues-master"/>
-    <title>Emerald Frost – Handcrafted Custom Pool Cue | Cues Master</title>
+    <title>Emerald Frost – Handcrafted Custom Pool Cue | Elite Cue</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -87,7 +24,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             28000.00
@@ -132,7 +69,7 @@
 <strong><span>Construction:</span></strong><span> Handcrafted Custom Cue</span>
 </li>
 <li>
-<strong><span>Brand:</span></strong><span> Cues Master</span>
+<strong><span>Brand:</span></strong><span> Elite Cue</span>
 </li>
 </ul>
 <p><strong><span>Natural maple. Emerald resin. Iridescent abalone. Precision craftsmanship. Emerald Frost is where bold modern design meets the timeless art of handcrafted cue making.</span></strong><span> 🎱</span></p></td>
@@ -153,9 +90,9 @@
     <published>2026-08-14T09:37:32+08:00</published>
     <updated>2026-08-14T09:37:32+08:00</updated>
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/emerald-sovereign-handcrafted-custom-pool-cue-cues-master"/>
-    <title>Emerald Sovereign – Handcrafted Custom Pool Cue | Cues Master</title>
+    <title>Emerald Sovereign – Handcrafted Custom Pool Cue | Elite Cue</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -163,7 +100,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             18000.00
@@ -193,7 +130,7 @@
 <strong><span>Construction:</span></strong><span> Handcrafted Custom Cue</span>
 </li>
 <li>
-<strong><span>Brand:</span></strong><span> Cues Master</span>
+<strong><span>Brand:</span></strong><span> Elite Cue</span>
 </li>
 </ul>
 <p><strong><span>Natural ashwood. Rich resin. Iridescent abalone. Timeless luxury—crafted into a cue with a presence all its own.</span></strong><span> 🎱</span></p></td>
@@ -214,9 +151,9 @@
     <published>2026-08-14T09:37:05+08:00</published>
     <updated>2026-08-14T09:37:05+08:00</updated>
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/obsidian-crown-handcrafted-custom-pool-cue-cues-master"/>
-    <title>Obsidian Crown – Handcrafted Custom Pool Cue | Cues Master</title>
+    <title>Obsidian Crown – Handcrafted Custom Pool Cue | Elite Cue</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -224,7 +161,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             25000.00
@@ -258,7 +195,7 @@
 <strong><span>Construction:</span></strong><span> Handcrafted Custom Cue</span>
 </li>
 <li>
-<strong><span>Brand:</span></strong><span> Cues Master</span>
+<strong><span>Brand:</span></strong><span> Elite Cue</span>
 </li>
 </ul>
 <p><strong><span>Dark maple. Iridescent abalone. Crocodile texture. Quiet luxury with a commanding presence—the Obsidian Crown.</span></strong><span> 🎱</span></p></td>
@@ -279,9 +216,9 @@
     <published>2026-08-14T09:36:11+08:00</published>
     <updated>2026-08-14T09:36:11+08:00</updated>
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/imperial-geometry-handcrafted-custom-pool-cue-cues-master"/>
-    <title>Imperial Geometry – Handcrafted Custom Pool Cue | Cues Master</title>
+    <title>Imperial Geometry – Handcrafted Custom Pool Cue | Elite Cue</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -289,7 +226,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             25000.00
@@ -301,7 +238,7 @@
 <p class="isSelectedEnd"><span>The </span><strong><span>premium Canadian maple forearm</span></strong><span> provides a clean, sophisticated foundation for a striking arrangement of meticulously handcrafted </span><strong><span>resin and abalone inlays</span></strong><span>. Sharp geometric forms flow along the cue in a carefully balanced composition, combining contrasting shapes, rich resin tones, and shimmering abalone accents. The result is a bold, architectural aesthetic that adds visual depth while preserving the natural warmth of the maple.</span></p>
 <p class="isSelectedEnd"><span>Matching </span><strong><span>resin and abalone detailing</span></strong><span> continues through the butt sleeve, creating seamless visual continuity from forearm to butt. Custom </span><strong><span>resin rings</span></strong><span> complement the geometric inlay pattern, adding clean separation and a refined finishing touch.</span></p>
 <p class="isSelectedEnd"><span>A premium </span><strong><span>synthetic wrap</span></strong><span> provides a comfortable, secure grip while creating a sophisticated contrast against the natural maple and intricate butt design. The precision </span><strong><span>Radial pin</span></strong><span> completes the construction with a solid and dependable connection between the butt and shaft.</span></p>
-<p class="isSelectedEnd"><span>Created for discerning players and collectors who appreciate meticulous craftsmanship and distinctive design, the Imperial Geometry represents the harmony of </span><strong><span>precision, elegance, and individuality</span></strong><span> that defines a Cues Master creation.</span></p>
+<p class="isSelectedEnd"><span>Created for discerning players and collectors who appreciate meticulous craftsmanship and distinctive design, the Imperial Geometry represents the harmony of </span><strong><span>precision, elegance, and individuality</span></strong><span> that defines an Elite Cue creation.</span></p>
 <h3><span>Specifications</span></h3>
 <ul>
 <li>
@@ -323,7 +260,7 @@
 <strong><span>Construction:</span></strong><span> Handcrafted Custom Cue</span>
 </li>
 <li>
-<strong><span>Brand:</span></strong><span> Cues Master</span>
+<strong><span>Brand:</span></strong><span> Elite Cue</span>
 </li>
 </ul>
 <p><strong><span>Precision in every line. Character in every detail. The Imperial Geometry is handcrafted for those who appreciate the artistry behind the game.</span></strong><span> 🎱</span></p></td>
@@ -344,9 +281,9 @@
     <published>2026-08-14T09:35:44+08:00</published>
     <updated>2026-08-14T09:35:44+08:00</updated>
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/sapphire-noir-handcrafted-custom-pool-cue-cues-master"/>
-    <title>Sapphire Noir – Handcrafted Custom Pool Cue | Cues Master</title>
+    <title>Sapphire Noir – Handcrafted Custom Pool Cue | Elite Cue</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -354,7 +291,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             18000.00
@@ -391,7 +328,7 @@
 <strong><span>Construction:</span></strong><span> Handcrafted Custom Cue</span>
 </li>
 <li>
-<strong><span>Brand:</span></strong><span> Cues Master</span>
+<strong><span>Brand:</span></strong><span> Elite Cue</span>
 </li>
 </ul>
 <p><strong><span>Natural ashwood. Deep blue resin. Iridescent abalone. Crocodile texture. A bold expression of handcrafted luxury—the Sapphire Noir.</span></strong><span> 🎱</span></p></td>
@@ -412,9 +349,9 @@
     <published>2026-08-14T09:34:58+08:00</published>
     <updated>2026-08-14T09:34:58+08:00</updated>
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/royal-ember-handcrafted-custom-pool-cue-cues-master"/>
-    <title>Royal Ember – Handcrafted Custom Pool Cue | Cues Master</title>
+    <title>Royal Ember – Handcrafted Custom Pool Cue | Elite Cue</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -422,7 +359,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             25000.00
@@ -456,7 +393,7 @@
 <strong><span>Construction:</span></strong><span> Handcrafted Custom Cue</span>
 </li>
 <li>
-<strong><span>Brand:</span></strong><span> Cues Master</span>
+<strong><span>Brand:</span></strong><span> Elite Cue</span>
 </li>
 </ul>
 <p><strong><span>Black-stained Canadian maple. Rich rosewood. Crimson crocodile. Iridescent abalone. A commanding expression of handcrafted luxury, created for those who demand something truly distinctive.</span></strong><span> 🎱</span></p></td>
@@ -477,9 +414,9 @@
     <published>2026-08-14T09:34:10+08:00</published>
     <updated>2026-08-14T09:34:10+08:00</updated>
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/white-eclipse-handcrafted-custom-pool-cue-cues-master"/>
-    <title>White Eclipse – Handcrafted Custom Pool Cue | Cues Master</title>
+    <title>White Eclipse – Handcrafted Custom Pool Cue | Elite Cue</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -487,7 +424,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             27000.00
@@ -521,7 +458,7 @@
 <strong><span>Construction:</span></strong><span> Handcrafted Custom Cue</span>
 </li>
 <li>
-<strong><span>Brand:</span></strong><span> Cues Master</span>
+<strong><span>Brand:</span></strong><span> Elite Cue</span>
 </li>
 </ul>
 <p><strong><span>Light meets shadow. Natural grain meets iridescent detail. The White Eclipse is crafted to stand apart.</span></strong><span> 🎱</span></p></td>
@@ -541,10 +478,10 @@
     <id>https://www.elitecue.shop/products/8048429432880</id>
     <published>2026-08-14T09:33:18+08:00</published>
     <updated>2026-08-14T09:33:18+08:00</updated>
-    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/aaa"/>
-    <title>Scarlet Regent – Handcrafted Custom Pool Cue | Cues Master</title>
+    <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/scarlet-regent-handcrafted-custom-pool-cue"/>
+    <title>Scarlet Regent – Handcrafted Custom Pool Cue | Elite Cue</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -552,7 +489,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             23000.00
@@ -586,7 +523,7 @@
 <strong><span>Construction:</span></strong><span> Handcrafted Custom Cue</span>
 </li>
 <li>
-<strong><span>Brand:</span></strong><span> Cues Master</span>
+<strong><span>Brand:</span></strong><span> Elite Cue</span>
 </li>
 </ul>
 <p><strong><span>Natural ashwood. Rich rosewood. Crimson crocodile. Iridescent abalone. A regal expression of handcrafted luxury, created for those who appreciate character, craftsmanship, and individuality.</span></strong><span> 🎱</span></p></td>
@@ -609,7 +546,7 @@
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/royal-eclipse-handcrafted-custom-pool-cue-butt"/>
     <title>Maple x Spalted Tamarind 12 pointer (Butt only)</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -617,7 +554,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             20000.00
@@ -626,7 +563,7 @@
   </tr>
   <tr>
     <td colspan="2"><p> Crafted from <strong>premium figured Canadian maple</strong>, this cue features <strong>spalted tamarind points</strong> accented with <strong>purple veneers</strong>, creating a striking contrast that highlights the natural beauty of both woods. Finished with a <strong>black crocodile-embossed leather wrap</strong>, it offers a luxurious feel and a secure, comfortable grip.</p>
-<p>Every Cues Master cue is handcrafted with precision and attention to detail, ensuring each piece is as unique as the player who owns it. Whether paired with your favorite shaft for competitive play or displayed as part of a premium collection, the <strong>Royal Eclipse</strong> delivers the perfect balance of beauty, craftsmanship, and performance.</p>
+<p>Every Elite Cue cue is handcrafted with precision and attention to detail, ensuring each piece is as unique as the player who owns it. Whether paired with your favorite shaft for competitive play or displayed as part of a premium collection, the <strong>Royal Eclipse</strong> delivers the perfect balance of beauty, craftsmanship, and performance.</p>
 <h3>Specifications</h3>
 <ul>
 <li>
@@ -675,7 +612,7 @@
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/sovereign-point-handcrafted-custom-pool-cue-butt-cues-master"/>
     <title>Maple x 12 Pointer Abalone (Butt only)</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -683,7 +620,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             21000.00
@@ -692,7 +629,7 @@
   </tr>
   <tr>
     <td colspan="2"><p class="PDq2pG_selectionAnchorContainer">Crafted from <strong>Canadian maple</strong>, this custom cue butt showcases elegant long points enhanced by meticulously handcrafted <strong>abalone inlays</strong>, creating a sophisticated design that is both bold and understated. Finished with a <strong>premium Black Croco wrap</strong>, it offers a luxurious feel and a secure, comfortable grip for confident play.<span class="PDq2pG_selectionAnchor"></span></p>
-<p>Designed for discerning players and collectors alike, the Sovereign Point embodies the precision, balance, and attention to detail that define every Cues Master creation. Whether paired with your preferred shaft or displayed as part of a distinguished collection, it is a timeless expression of craftsmanship and enduring style.</p>
+<p>Designed for discerning players and collectors alike, the Sovereign Point embodies the precision, balance, and attention to detail that define every Elite Cue creation. Whether paired with your preferred shaft or displayed as part of a distinguished collection, it is a timeless expression of craftsmanship and enduring style.</p>
 <h3>Specifications</h3>
 <ul>
 <li>
@@ -732,7 +669,7 @@
     <link rel="alternate" type="text/html" href="https://www.elitecue.shop/products/crimson-legacy-handcrafted-custom-pool-cue-butt-cues-master"/>
     <title>Maple x Ebony Wood Points (Butt only)</title>
     <s:type></s:type>
-    <s:vendor>Cues Master Shop</s:vendor>
+    <s:vendor>Elite Cue</s:vendor>
     <summary type="html">
       <![CDATA[<table border="0">
   <tr>
@@ -740,7 +677,7 @@
     <td valign="bottom">
       <p>
 
-        <strong>Vendor: </strong>Cues Master Shop<br>
+        <strong>Vendor: </strong>Elite Cue<br>
         <strong>Type: </strong><br>
         <strong>Price: </strong>
             15000.00
@@ -773,7 +710,7 @@
 <strong><span>Configuration:</span></strong><span> Butt Only (Shaft Not Included)</span>
 </li>
 </ul>
-<p class="isSelectedEnd"><span>Every Cues Master cue is individually handcrafted, ensuring each piece is one of a kind while meeting the high standards of precision, balance, and craftsmanship that define our brand. Designed for players and collectors alike, the Crimson Legacy pairs classic cue-making tradition with a bold, sophisticated aesthetic.</span></p>
+<p class="isSelectedEnd"><span>Every Elite Cue cue is individually handcrafted, ensuring each piece is one of a kind while meeting the high standards of precision, balance, and craftsmanship that define our brand. Designed for players and collectors alike, the Crimson Legacy pairs classic cue-making tradition with a bold, sophisticated aesthetic.</span></p>
 <p class="isSelectedEnd"><span>Whether you're matching it with your favorite shaft or adding a standout piece to your collection, this cue is built to perform and made to be admired.</span></p>
 <p><strong><span>Own the legacy. Play with distinction.</span></strong></p></td>
   </tr>
