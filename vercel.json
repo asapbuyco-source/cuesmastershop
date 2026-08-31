@@ -1,4 +1,10 @@
 {
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "routes": [
+    {
+      "src": "^/googlef598f3d3c16561b1\\.html$",
+      "dest": "/googlef598f3d3c16561b1"
+    }
+  ]
 }
